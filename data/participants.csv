@@ -1,0 +1,542 @@
+participant_id,arm,d1_age,d2_gender,d3_country,d4_diet,q1_meat,q2_dairy,q3_eggs,q4_motivation,q5_expected_difficulty,baseline_protein_g,day1_total_protein_g,day2_total_protein_g,day3_total_protein_g,day4_total_protein_g,day5_total_protein_g,day6_total_protein_g,day7_total_protein_g,day8_total_protein_g,day9_total_protein_g,day10_total_protein_g,day11_total_protein_g,day12_total_protein_g,day13_total_protein_g,day14_total_protein_g,q7_experienced_difficulty,q9_plan,mean_daily_protein_g,valid_days,nonresponse_days,included_in_hypothesis
+P0001,treatment,48.0,man,United States,omnivore,3.0,1.0,3.0,environmental,3.0,105.4,25.2,,,,,,,,,,,,,,,,25.2,1.0,13.0,False
+P0002,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0003,treatment,53.0,woman,United States,omnivore,0.5,0.1,0.5,health,2.0,17.0,6.3,6.3,1.02,7.32,7.32,7.7,1.02,1.02,0.0,1.02,7.32,7.32,30.72,7.32,2.0,probably_yes,6.55,14.0,0.0,True
+P0004,control,33.0,woman,United States,omnivore,0.0,1.0,0.0,environmental,1.0,8.5,10.63,43.13,10.63,10.63,43.13,10.63,10.63,10.63,10.63,10.63,10.63,10.63,0.0,10.63,,yes_definitely,14.51,14.0,0.0,True
+P0005,control,33.0,woman,United States,omnivore,1.0,1.0,0.0,curiosity,4.0,34.5,,116.0,129.38,,78.38,,122.5,158.13,90.0,130.0,57.5,32.5,,32.5,,probably_not,94.69,10.0,4.0,False
+P0006,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0007,treatment,68.0,man,United States,omnivore,1.0,2.0,0.5,curiosity,2.0,46.15,10.63,10.63,21.25,72.3,13.18,17.14,27.36,34.45,23.75,22.52,6.47,26.0,0.0,0.0,1.0,probably_yes,20.4,14.0,0.0,True
+P0008,treatment,21.0,woman,United States,vegetarian,0.0,0.0,0.0,animal_welfare,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,yes_definitely,0.0,14.0,0.0,True
+P0009,control,78.0,woman,Other,vegetarian,0.0,2.0,0.0,environmental,2.0,17.0,46.0,18.53,25.28,6.38,22.03,5.1,21.01,8.37,23.8,10.03,12.33,15.73,4.25,8.5,,yes_definitely,16.24,14.0,0.0,True
+P0010,treatment,33.0,man,United States,omnivore,1.0,5.0,1.0,environmental,4.0,74.8,27.81,47.96,122.49,51.18,92.48,191.33,86.79,62.6,74.63,82.14,59.15,33.19,44.44,60.41,4.0,yes_definitely,74.04,14.0,0.0,True
+P0011,treatment,21.0,woman,United States,omnivore,2.0,0.0,0.0,curiosity,4.0,52.0,13.53,31.05,,,10.63,0.0,32.5,10.63,10.63,10.63,,,,,4.0,yes_definitely,14.95,8.0,6.0,False
+P0012,control,58.0,woman,United States,omnivore,2.0,2.0,2.0,health,3.0,81.6,21.25,26.14,75.0,94.13,51.0,61.63,86.25,59.07,25.49,85.92,161.76,6.8,28.27,30.19,,yes_definitely,58.06,14.0,0.0,True
+P0013,treatment,28.0,man,United States,omnivore,2.0,1.0,2.0,curiosity,2.0,73.1,46.34,87.89,114.86,80.95,66.46,30.68,56.14,94.32,66.25,50.91,63.82,107.38,35.57,86.82,5.0,probably_not,70.6,14.0,0.0,True
+P0014,treatment,53.0,woman,United States,omnivore,2.0,0.0,1.0,environmental,2.0,58.3,,,,,,,,,,,,,,,,,,,,
+P0015,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0016,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0017,treatment,21.0,man,United States,omnivore,3.0,2.0,2.0,curiosity,4.0,107.6,133.3,6.3,16.25,62.7,32.5,41.88,16.25,35.5,162.5,46.25,32.5,48.75,0.0,16.25,3.0,probably_yes,46.49,14.0,0.0,True
+P0018,treatment,28.0,woman,United States,vegetarian,0.0,2.0,0.0,animal_welfare,3.0,17.0,,,,,,,,,,,,,,,,,,,,
+P0019,treatment,53.0,woman,United States,omnivore,1.0,3.0,2.0,environmental,2.0,64.1,27.61,33.32,42.09,30.36,23.4,48.75,0.0,6.93,35.1,43.56,23.33,18.11,30.79,14.11,2.0,probably_yes,26.96,14.0,0.0,True
+P0020,control,21.0,woman,Other,vegetarian,0.0,1.0,0.0,environmental,2.0,8.5,,,,,,,,,,,,,,,,,,,,
+P0021,treatment,68.0,woman,United States,omnivore,1.0,4.0,1.0,environmental,1.0,66.3,5.65,17.0,4.25,12.75,33.4,10.63,12.75,20.64,4.51,46.11,4.25,40.61,14.65,25.05,1.0,yes_definitely,18.02,14.0,0.0,True
+P0022,treatment,53.0,woman,United States,pescatarian,0.5,0.25,1.0,environmental,1.0,21.43,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,probably_yes,0.0,14.0,0.0,True
+P0023,treatment,63.0,woman,United States,omnivore,1.0,5.0,2.0,environmental,3.0,81.1,25.16,4.17,25.06,30.28,33.31,31.69,39.21,24.06,13.43,24.01,27.01,39.5,39.66,42.29,2.0,yes_definitely,28.49,14.0,0.0,True
+P0024,treatment,58.0,woman,United States,vegetarian,0.0,2.0,1.0,environmental,4.0,23.3,2.17,2.17,2.76,0.0,1.06,1.06,27.14,36.0,0.0,1.06,3.49,3.49,11.14,3.99,2.0,unsure,6.82,14.0,0.0,True
+P0025,treatment,63.0,woman,Other,omnivore,0.5,0.0,1.0,health,1.0,19.3,0.0,0.0,0.0,53.5,63.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,47.2,,,11.76,14.0,0.0,True
+P0026,treatment,68.0,woman,United States,omnivore,1.5,0.0,1.0,environmental,1.0,45.3,32.5,0.0,0.0,0.0,29.48,2.59,0.0,3.3,12.9,31.58,28.9,8.58,0.0,26.0,3.0,yes_definitely,12.56,14.0,0.0,True
+P0027,treatment,63.0,woman,United States,omnivore,1.0,2.0,1.0,environmental,2.0,49.3,10.71,1.1,25.92,23.4,14.02,31.9,67.32,24.5,1.1,0.0,2.13,4.25,4.25,0.0,2.0,probably_yes,15.04,14.0,0.0,True
+P0028,treatment,28.0,woman,United States,omnivore,1.0,3.0,1.0,environmental,3.0,57.8,51.63,50.18,,,,,,,,,,,,,,,50.9,2.0,12.0,False
+P0029,treatment,68.0,woman,United States,pescatarian,0.0,1.0,3.0,other,1.0,27.4,,,,,,,,,,,,,,,,,,,,
+P0030,treatment,43.0,woman,United States,,3.0,0.0,4.0,health,4.0,103.2,,,,,,,,,,,,,,,,,,,,
+P0031,control,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0032,control,53.0,woman,United States,vegetarian,0.0,2.0,2.0,health,2.0,29.6,20.74,0.64,19.06,18.43,21.44,26.63,32.11,8.8,42.04,20.37,12.11,32.88,75.09,24.04,,yes_definitely,25.31,14.0,0.0,True
+P0033,control,33.0,woman,United States,omnivore,1.0,0.0,0.0,environmental,2.0,26.0,23.4,23.4,40.33,11.22,23.4,31.05,20.5,24.89,15.0,23.4,55.26,31.66,32.54,23.4,,unsure,27.1,14.0,0.0,True
+P0034,treatment,21.0,woman,Other,omnivore,2.0,3.0,0.0,environmental,2.0,77.5,9.41,39.34,4.25,,,,,,,,,,,,,,17.67,3.0,11.0,False
+P0035,treatment,53.0,woman,United States,vegetarian,0.0,1.0,1.0,health,1.0,14.8,34.03,0.0,32.5,0.0,0.0,21.67,0.0,32.5,10.63,10.63,0.0,53.75,7.88,0.0,2.0,yes_definitely,14.54,14.0,0.0,True
+P0036,control,78.0,woman,United States,vegetarian,0.0,1.0,1.0,animal_welfare,3.0,14.8,13.95,13.95,3.15,27.21,11.69,4.08,4.08,7.65,1.06,1.06,11.69,8.94,11.69,1.06,,probably_yes,8.66,14.0,0.0,True
+P0037,treatment,43.0,woman,United States,omnivore,1.0,1.0,1.0,environmental,2.0,40.8,58.01,40.16,57.17,72.25,26.29,36.61,36.33,15.64,50.21,25.01,33.36,58.45,36.26,39.94,3.0,probably_yes,41.83,14.0,0.0,True
+P0038,control,38.0,woman,United States,omnivore,3.0,2.0,3.0,health,2.0,113.9,43.13,23.4,,98.63,46.63,,70.03,,,,,,,,,,56.36,5.0,9.0,False
+P0039,treatment,38.0,man,Other,omnivore,1.0,0.0,0.0,health,1.0,26.0,0.0,10.63,1.49,32.5,10.63,32.5,32.5,0.0,10.63,0.0,41.0,0.0,0.0,0.0,2.0,yes_definitely,12.28,14.0,0.0,True
+P0040,treatment,33.0,woman,United States,vegetarian,0.0,3.0,1.0,curiosity,2.0,31.8,29.49,9.1,19.05,12.79,49.7,28.9,1.02,0.0,5.1,2.59,0.0,0.0,6.97,4.08,2.0,probably_not,12.06,14.0,0.0,True
+P0041,treatment,21.0,woman,United States,omnivore,1.0,1.0,2.0,environmental,1.0,47.1,4.25,10.63,12.6,14.02,8.19,0.64,16.25,6.38,16.85,12.6,6.38,6.38,7.44,6.38,2.0,yes_definitely,9.21,14.0,0.0,True
+P0042,treatment,53.0,woman,United States,omnivore,2.0,0.5,0.0,health,5.0,56.25,65.0,0.0,16.9,74.4,0.0,34.58,0.0,32.5,0.0,7.99,47.71,32.5,59.67,54.58,3.0,yes_definitely,30.42,14.0,0.0,True
+P0043,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0044,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0045,treatment,28.0,man,United States,omnivore,3.0,1.0,1.0,curiosity,3.0,92.8,97.5,57.5,57.5,0.0,130.0,23.4,0.0,32.5,65.0,65.0,,,,,,,52.84,10.0,4.0,False
+P0046,control,38.0,woman,United States,omnivore,2.0,1.0,2.0,environmental,3.0,73.1,59.4,74.39,46.8,53.1,32.5,55.05,37.6,84.4,12.6,65.0,55.9,77.6,,25.0,,unsure,52.26,13.0,1.0,True
+P0047,treatment,58.0,woman,Other,omnivore,0.2,0.5,0.5,environmental,2.0,12.6,,,,,,,,,,,,,,,,,,,,
+P0048,treatment,73.0,woman,United States,vegetarian,0.0,1.0,0.0,health,3.0,8.5,0.0,7.14,4.25,9.65,0.0,0.0,0.0,0.0,0.0,0.0,10.84,0.0,2.59,12.75,3.0,yes_definitely,3.37,14.0,0.0,True
+P0049,treatment,53.0,man,United States,pescatarian,0.5,1.0,1.0,other,1.0,27.8,25.65,23.23,0.0,0.0,23.23,0.0,12.6,23.23,10.63,18.5,10.63,18.5,0.0,35.63,1.0,yes_definitely,14.41,14.0,0.0,True
+P0050,treatment,63.0,man,Other,vegetarian,0.0,0.0,0.0,health,1.0,0.0,,,,,,,,,,,,,,,,,,,,
+P0051,treatment,78.0,man,United States,omnivore,0.0,2.0,2.0,health,1.0,29.6,0.0,8.19,0.0,6.3,0.0,0.0,0.0,0.0,22.55,,6.3,6.3,0.0,14.3,2.0,yes_definitely,4.92,13.0,1.0,True
+P0052,treatment,33.0,man,Other,omnivore,0.5,1.0,0.0,environmental,3.0,21.5,56.0,7.65,7.65,1.06,23.4,23.91,32.96,10.12,24.46,0.0,23.4,0.0,0.0,23.4,3.0,yes_definitely,16.71,14.0,0.0,True
+P0053,control,68.0,woman,Other,vegetarian,0.0,3.0,1.0,environmental,3.0,31.8,7.79,12.75,14.8,20.83,14.81,20.16,20.97,14.88,14.49,29.62,18.41,12.11,22.46,7.16,,yes_definitely,16.52,14.0,0.0,True
+P0054,control,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0055,control,21.0,woman,Other,vegetarian,0.0,3.0,1.0,animal_welfare,3.0,31.8,3.89,10.55,8.93,36.55,8.08,0.0,5.95,5.31,13.21,2.85,7.14,2.59,1.4,23.16,,probably_not,9.26,14.0,0.0,True
+P0056,treatment,63.0,woman,United States,vegetarian,0.0,1.0,0.0,curiosity,1.0,8.5,0.0,1.11,0.51,4.25,,,,,,,,,,,,,1.47,4.0,10.0,False
+P0057,control,,,Other,,,,,,,,29.13,,163.48,34.15,64.63,44.37,79.52,70.43,63.45,122.3,65.2,44.02,45.83,,,,68.87,12.0,2.0,True
+P0058,control,68.0,woman,United States,vegetarian,0.0,0.0,0.0,health,2.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,yes_definitely,0.0,14.0,0.0,True
+P0059,treatment,38.0,man,United States,vegetarian,1.0,0.0,0.0,health,1.0,26.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,yes_definitely,0.0,14.0,0.0,True
+P0060,treatment,21.0,woman,United States,omnivore,1.0,3.0,1.0,health,2.0,57.8,26.88,20.93,33.92,16.25,32.5,16.25,19.24,,,,,,,,,,23.71,7.0,7.0,False
+P0061,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0062,treatment,53.0,woman,United States,vegetarian,0.0,1.0,1.0,health,3.0,14.8,17.83,28.78,20.92,5.01,15.48,35.8,9.77,5.86,5.36,0.0,6.12,5.44,5.1,9.77,1.0,yes_definitely,12.23,14.0,0.0,True
+P0063,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0064,control,73.0,woman,United States,omnivore,4.0,0.0,0.0,curiosity,4.0,104.0,,,,,,,,,,,,,,,,,,,,
+P0065,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0066,treatment,78.0,woman,United States,omnivore,1.0,3.0,1.0,curiosity,1.0,57.8,,,,,,,,,,,,,,,,,,0.0,14.0,False
+P0067,treatment,38.0,woman,Other,vegetarian,0.0,2.0,0.0,health,2.0,17.0,1.49,1.49,1.49,0.0,0.0,2.97,1.49,1.06,0.0,0.0,0.0,1.49,0.0,0.0,2.0,yes_definitely,0.82,14.0,0.0,True
+P0068,treatment,21.0,man,United States,omnivore,3.0,1.0,1.0,curiosity,1.0,92.8,1.7,0.0,0.0,4.25,29.07,1.49,55.9,,,,,,,,,,13.2,7.0,7.0,False
+P0069,treatment,68.0,woman,United States,omnivore,0.0,0.5,0.0,environmental,2.0,4.25,0.0,2.81,0.0,6.93,6.63,0.51,90.0,0.26,0.85,0.26,9.11,5.44,8.43,0.0,1.0,yes_definitely,9.37,14.0,0.0,True
+P0070,treatment,33.0,woman,United States,omnivore,2.0,2.0,1.0,environmental,2.0,75.3,0.64,8.5,0.0,0.0,13.21,0.0,0.0,0.0,3.95,0.0,0.0,0.0,0.0,0.0,3.0,unsure,1.88,14.0,0.0,True
+P0071,treatment,73.0,woman,Other,omnivore,22.0,2.0,0.0,environmental,3.0,589.0,,7.65,,40.15,43.28,,,,,,,,,,4.0,yes_definitely,30.36,3.0,11.0,False
+P0072,treatment,73.0,woman,United States,omnivore,2.0,2.0,2.0,health,3.0,81.6,76.38,83.52,54.45,23.4,0.0,36.0,46.8,97.5,0.0,54.45,31.05,63.05,58.82,23.4,3.0,probably_yes,46.34,14.0,0.0,True
+P0073,treatment,43.0,man,Other,omnivore,3.0,2.0,1.0,health,3.0,101.3,32.75,31.25,22.95,9.99,23.4,0.0,31.05,9.35,0.0,38.7,20.93,0.0,16.25,39.65,3.0,probably_not,19.73,14.0,0.0,True
+P0074,treatment,21.0,woman,Other,omnivore,1.0,2.0,1.0,health,3.0,49.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,0.0,13.0,1.0,True
+P0075,treatment,58.0,woman,United States,omnivore,0.0,0.0,0.0,other,1.0,0.0,10.63,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,10.03,0.0,1.0,yes_definitely,1.48,14.0,0.0,True
+P0076,control,68.0,woman,United States,omnivore,0.5,2.0,0.0,environmental,2.0,30.0,34.03,49.33,34.03,22.53,39.56,36.53,50.47,54.65,112.68,,,,,,,,48.2,9.0,5.0,False
+P0077,treatment,58.0,man,United States,omnivore,1.0,2.0,0.0,other,2.0,43.0,32.88,22.25,22.25,37.06,34.9,4.25,75.64,47.33,46.6,4.25,41.23,22.25,51.07,24.25,3.0,probably_not,33.3,14.0,0.0,True
+P0078,treatment,63.0,man,United States,omnivore,1.0,0.2,1.0,health,3.0,34.0,12.05,43.25,23.4,0.0,86.58,77.85,43.85,39.17,50.09,69.16,34.59,64.22,52.0,0.0,4.0,yes_definitely,42.59,14.0,0.0,True
+P0079,treatment,63.0,woman,Other,vegetarian,0.0,1.0,0.0,health,1.0,8.5,0.0,0.0,0.0,0.0,20.09,11.34,0.0,11.34,11.34,2.59,0.0,0.0,2.59,2.59,1.0,no,4.42,14.0,0.0,True
+P0080,treatment,68.0,woman,United States,vegetarian,0.0,1.0,0.0,environmental,1.0,8.5,0.64,0.0,0.0,13.24,8.5,0.0,8.5,0.0,0.0,0.0,8.5,8.5,0.0,8.5,1.0,no,4.03,14.0,0.0,True
+P0081,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0082,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0083,treatment,58.0,man,United States,omnivore,1.0,3.0,0.0,environmental,2.0,51.5,,,,,,,,,,,,,,,,,,0.0,14.0,False
+P0084,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0085,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0086,treatment,33.0,woman,United States,omnivore,2.0,0.0,1.0,curiosity,1.0,58.3,32.5,65.0,97.5,32.5,,,,,,,,,,,,,56.88,4.0,10.0,False
+P0087,control,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0088,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0089,treatment,58.0,woman,United States,omnivore,2.0,1.0,0.0,animal_welfare,2.0,60.5,23.4,0.0,32.5,0.0,0.0,16.25,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,yes_definitely,5.15,14.0,0.0,True
+P0090,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0091,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0092,treatment,28.0,woman,United States,omnivore,1.0,2.0,0.0,environmental,2.0,43.0,17.6,26.0,23.0,20.0,8.5,10.0,8.5,6.38,26.0,24.93,20.0,12.75,17.0,62.55,3.0,probably_yes,20.23,14.0,0.0,True
+P0093,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0094,treatment,43.0,woman,Other,vegetarian,0.0,1.0,0.0,animal_welfare,1.0,8.5,0.0,0.0,0.0,4.25,4.25,0.0,0.0,0.0,0.0,4.25,0.0,0.0,4.25,5.74,1.0,yes_definitely,1.62,14.0,0.0,True
+P0095,treatment,68.0,man,United States,omnivore,2.0,2.0,1.0,curiosity,2.0,75.3,16.25,43.13,32.5,0.0,32.5,0.0,43.13,43.13,10.63,10.63,0.0,0.0,32.5,0.0,3.0,probably_yes,18.88,14.0,0.0,True
+P0096,treatment,68.0,woman,United States,omnivore,1.0,1.0,0.0,health,2.0,34.5,8.5,41.6,23.4,34.58,26.6,34.58,12.6,11.48,34.58,3.99,17.42,8.5,34.58,34.58,3.0,yes_definitely,23.36,14.0,0.0,True
+P0097,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0098,treatment,21.0,woman,United States,vegetarian,0.0,2.0,0.0,environmental,2.0,17.0,4.68,,,,,,,,,,,,,,,,4.68,1.0,13.0,False
+P0099,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0100,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0101,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0102,control,78.0,woman,United States,omnivore,3.0,3.0,0.0,animal_welfare,4.0,103.5,8.93,17.42,7.23,2.97,19.97,11.56,19.97,17.21,9.77,12.58,8.58,8.71,11.9,0.0,,probably_yes,11.2,14.0,0.0,True
+P0103,control,33.0,woman,United States,omnivore,1.0,3.0,2.0,environmental,2.0,64.1,127.71,60.74,31.9,42.64,16.36,10.2,1.06,41.85,9.56,9.56,,,,,,,35.16,10.0,4.0,False
+P0104,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0105,treatment,28.0,man,United States,vegetarian,0.0,1.0,1.0,animal_welfare,3.0,14.8,9.35,19.13,0.0,4.25,1.62,,0.0,4.25,2.97,2.59,0.0,0.0,12.33,7.01,3.0,probably_yes,4.88,13.0,1.0,True
+P0106,treatment,21.0,woman,United States,omnivore,1.5,1.0,1.0,environmental,3.0,53.8,25.0,25.0,45.0,26.06,,67.88,,7.88,10.63,,,,32.5,,,,29.99,8.0,6.0,False
+P0107,treatment,68.0,woman,United States,omnivore,1.5,3.0,1.0,curiosity,2.0,70.8,90.82,116.8,7.31,47.41,18.22,1.7,38.49,17.98,46.5,56.53,31.95,15.35,36.39,79.25,2.0,probably_yes,43.19,14.0,0.0,True
+P0108,treatment,28.0,woman,United States,omnivore,2.0,0.0,2.0,environmental,2.0,64.6,36.0,38.2,24.3,59.4,,37.49,8.5,18.0,6.3,36.0,48.93,59.2,23.4,43.01,2.0,probably_yes,33.75,13.0,1.0,True
+P0109,treatment,28.0,woman,United States,omnivore,1.0,1.0,2.0,health,2.0,47.1,23.44,12.6,23.44,4.25,,12.6,,,,,,,,,,,15.27,5.0,9.0,False
+P0110,treatment,78.0,woman,United States,omnivore,1.0,1.0,1.0,health,2.0,40.8,10.63,55.28,25.8,32.5,43.85,,84.93,17.0,17.0,,,8.5,,51.58,1.0,yes_definitely,34.71,10.0,4.0,False
+P0111,treatment,28.0,man,United States,omnivore,1.0,2.0,0.5,environmental,3.0,46.15,9.99,12.75,139.32,165.09,17.86,29.72,8.21,,62.9,5.74,3.87,32.57,7.24,,,,41.27,12.0,2.0,True
+P0112,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0113,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0114,treatment,63.0,woman,United States,omnivore,1.0,2.0,1.0,health,3.0,49.3,16.53,18.0,40.4,4.25,10.63,12.75,4.25,12.75,23.4,0.0,28.29,72.45,54.45,4.25,4.0,yes_definitely,21.6,14.0,0.0,True
+P0115,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0116,treatment,63.0,woman,United States,omnivore,0.5,0.2,1.0,health,2.0,21.0,7.8,35.45,23.4,16.39,79.25,51.05,47.82,92.56,41.4,34.65,23.2,29.9,100.92,12.6,3.0,yes_definitely,42.6,14.0,0.0,True
+P0117,treatment,58.0,woman,United States,vegetarian,0.0,2.0,0.0,environmental,2.0,17.0,0.0,0.0,12.75,4.25,8.5,,,,,,,,,,,,5.1,5.0,9.0,False
+P0118,treatment,63.0,woman,Other,vegetarian,0.0,0.0,0.0,curiosity,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,,,,,,,0.0,10.0,4.0,False
+P0119,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0120,treatment,78.0,woman,United States,pescatarian,0.0,0.0,0.0,environmental,2.0,0.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,12.6,0.0,12.6,0.0,6.3,0.0,0.0,2.0,yes_definitely,2.33,14.0,0.0,True
+P0121,treatment,33.0,woman,United States,omnivore,2.0,1.0,1.0,environmental,3.0,66.8,26.52,51.6,57.5,,,,,,,,,,,,,,45.21,3.0,11.0,False
+P0122,control,78.0,woman,United States,omnivore,1.0,2.0,1.0,health,3.0,49.3,,,,,,,,,,,,,,,,,,,,
+P0123,treatment,68.0,woman,United States,vegetarian,0.0,2.0,0.0,curiosity,1.0,17.0,8.5,14.15,9.35,9.35,17.42,17.61,7.65,16.2,12.38,7.48,15.34,12.75,12.75,19.05,1.0,yes_definitely,12.86,14.0,0.0,True
+P0124,treatment,28.0,woman,United States,omnivore,2.0,0.5,0.0,environmental,2.0,56.25,1.02,1.49,18.0,6.38,1.49,8.5,0.0,23.4,0.0,0.0,0.0,0.0,0.0,0.0,4.0,unsure,4.31,14.0,0.0,True
+P0125,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0126,treatment,48.0,man,United States,omnivore,1.0,1.5,0.5,animal_welfare,2.0,41.9,8.07,5.7,12.6,48.7,47.51,17.85,51.76,24.08,30.02,21.51,6.38,23.63,9.18,20.93,2.0,yes_definitely,23.42,14.0,0.0,True
+P0127,treatment,43.0,woman,United States,omnivore,1.0,2.0,2.0,curiosity,3.0,55.6,34.03,,,,,,,,,,,,,,,,34.03,1.0,13.0,False
+P0128,treatment,68.0,woman,United States,omnivore,2.0,1.0,1.0,health,3.0,66.8,0.0,31.88,31.88,13.89,56.7,,,,,,,,,,,,26.87,5.0,9.0,False
+P0129,control,68.0,woman,United States,omnivore,0.5,1.0,0.5,curiosity,2.0,24.65,51.85,54.6,59.0,51.85,49.44,44.19,65.09,32.1,72.59,157.82,54.6,36.48,47.1,41.83,,yes_definitely,58.47,14.0,0.0,True
+P0130,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0131,control,38.0,woman,Other,omnivore,1.0,3.0,1.0,health,3.0,57.8,,,,,,,,,,,,,,,,yes_definitely,,,,
+P0132,treatment,38.0,woman,United States,omnivore,1.0,3.0,1.0,health,2.0,57.8,47.35,23.95,7.65,20.97,7.65,15.3,42.39,55.0,54.45,,23.4,91.17,31.05,20.25,,,33.89,13.0,1.0,True
+P0133,treatment,68.0,woman,Other,omnivore,1.0,2.0,1.0,environmental,4.0,49.3,36.92,27.92,5.1,15.22,25.46,26.53,1.02,36.98,12.65,23.6,11.88,16.19,11.23,15.34,4.0,probably_yes,19.0,14.0,0.0,True
+P0134,treatment,33.0,prefer_not_to_say,United States,pescatarian,0.0,2.0,0.0,curiosity,2.0,17.0,,,,,,,,,,,,,,,,,,,,
+P0135,treatment,73.0,man,United States,pescatarian,0.0,2.0,1.0,curiosity,1.0,23.3,32.76,34.45,,87.01,36.91,,19.14,63.23,,39.45,9.92,,39.31,35.46,2.0,probably_yes,39.76,10.0,4.0,False
+P0136,treatment,73.0,woman,United States,vegetarian,0.0,0.0,0.0,health,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,no,0.0,14.0,0.0,True
+P0137,control,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0138,treatment,28.0,man,United States,omnivore,3.0,2.0,1.0,curiosity,1.0,101.3,0.0,0.0,4.68,1.49,0.0,0.0,0.0,5.31,0.0,0.0,0.0,0.0,0.0,0.0,1.0,unsure,0.82,14.0,0.0,True
+P0139,treatment,21.0,woman,Other,omnivore,1.0,3.0,1.0,curiosity,3.0,57.8,13.01,11.22,16.49,5.95,14.79,18.63,12.79,59.52,17.42,10.46,15.64,41.33,19.56,10.8,3.0,probably_yes,19.11,14.0,0.0,True
+P0140,treatment,33.0,woman,United States,omnivore,2.0,1.0,0.0,curiosity,2.0,60.5,34.06,1.7,0.0,0.0,0.85,97.5,0.0,40.53,12.1,6.3,11.7,5.29,15.0,102.45,3.0,yes_definitely,23.39,14.0,0.0,True
+P0141,treatment,43.0,write_in,Other,omnivore,0.0,9.0,0.5,other,5.0,79.65,92.57,55.52,75.66,76.43,55.76,65.48,50.49,50.32,17.34,8.67,0.0,56.02,41.82,0.0,5.0,no,46.15,14.0,0.0,True
+P0142,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0143,control,28.0,man,United States,omnivore,1.0,1.0,1.0,environmental,1.0,40.8,15.3,33.17,37.5,69.59,26.41,53.4,18.74,34.25,10.55,21.25,57.88,26.7,25.0,46.75,,probably_yes,34.03,14.0,0.0,True
+P0144,treatment,21.0,woman,Other,omnivore,0.5,1.5,0.0,environmental,3.0,25.75,3.19,0.0,0.0,0.51,32.5,0.0,6.3,4.25,0.0,10.63,0.0,0.0,6.3,0.0,4.0,yes_definitely,4.55,14.0,0.0,True
+P0145,control,63.0,woman,United States,omnivore,1.0,3.0,1.0,environmental,3.0,57.8,57.49,52.77,70.64,54.85,16.66,13.68,68.33,46.27,77.59,66.97,97.1,42.04,44.07,33.36,,probably_not,52.99,14.0,0.0,True
+P0146,treatment,38.0,man,United States,omnivore,1.0,2.0,0.5,animal_welfare,1.0,46.15,14.8,17.42,1.49,33.39,20.8,11.48,5.78,0.0,20.23,0.0,0.0,0.0,15.04,0.0,3.0,probably_yes,10.03,14.0,0.0,True
+P0147,control,28.0,man,United States,omnivore,2.0,2.0,2.0,curiosity,3.0,81.6,65.0,97.5,36.25,51.0,,,18.5,,,,,,,,,,53.65,5.0,9.0,False
+P0148,treatment,38.0,man,United States,omnivore,4.0,0.0,1.0,environmental,1.0,110.3,0.0,72.22,9.56,32.5,32.5,65.0,4.03,0.0,65.0,15.0,25.0,32.5,32.5,65.0,1.0,probably_yes,32.2,14.0,0.0,True
+P0149,control,53.0,man,United States,vegetarian,0.0,4.0,2.0,curiosity,1.0,46.6,,,,,,,,,,,,,,,,,,,,
+P0150,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0151,treatment,53.0,woman,United States,omnivore,1.0,1.0,0.0,environmental,3.0,34.5,,,,,,,,,,,,,,,,,,,,
+P0152,control,78.0,man,United States,omnivore,1.0,1.0,0.0,health,2.0,34.5,,,,,,,,,,,,,,,,,,,,
+P0153,treatment,28.0,man,United States,omnivore,4.0,1.0,3.0,environmental,3.0,131.4,59.05,46.53,60.93,49.5,83.44,74.8,103.05,41.68,88.31,59.13,59.13,22.25,,,,,62.31,12.0,2.0,True
+P0154,treatment,63.0,woman,United States,omnivore,2.0,2.0,4.0,animal_welfare,4.0,94.2,0.0,0.0,0.0,18.9,57.5,0.0,46.8,0.0,0.0,0.0,0.0,23.4,0.0,0.0,2.0,yes_definitely,10.47,14.0,0.0,True
+P0155,treatment,73.0,man,United States,omnivore,2.0,3.0,1.0,environmental,2.0,83.8,28.6,55.25,51.0,12.13,17.42,0.0,0.0,40.61,69.16,0.0,40.36,8.5,36.54,8.5,2.0,probably_yes,26.29,14.0,0.0,True
+P0156,treatment,28.0,man,United States,omnivore,2.0,4.0,0.25,environmental,3.0,87.58,32.5,6.3,21.25,35.63,83.9,35.83,43.13,68.13,23.23,51.0,32.5,53.75,43.13,43.13,4.0,probably_yes,40.96,14.0,0.0,True
+P0157,treatment,78.0,woman,United States,omnivore,1.0,2.0,1.0,curiosity,2.0,49.3,0.43,9.56,0.0,0.47,0.0,0.0,2.13,1.4,0.43,4.68,0.43,0.43,,0.0,3.0,unsure,1.53,13.0,1.0,True
+P0158,treatment,68.0,woman,United States,vegetarian,0.0,1.0,0.0,health,1.0,8.5,0.0,10.63,0.0,10.63,1.49,2.59,0.0,0.0,0.0,0.0,0.0,0.0,13.32,0.0,1.0,yes_definitely,2.76,14.0,0.0,True
+P0159,treatment,38.0,man,United States,omnivore,1.0,3.0,1.0,environmental,2.0,57.8,60.35,7.65,22.75,23.4,17.0,23.4,32.5,23.4,23.4,23.4,23.4,23.4,23.4,8.75,2.0,probably_yes,24.01,14.0,0.0,True
+P0160,treatment,28.0,woman,United States,omnivore,2.0,5.0,2.0,environmental,2.0,107.1,60.25,69.19,11.69,,,,,,,,,,,,,,47.04,3.0,11.0,False
+P0161,control,28.0,woman,United States,omnivore,1.0,2.0,2.0,environmental,2.0,55.6,16.61,16.61,11.22,51.07,10.63,82.51,35.63,71.9,60.5,27.2,57.53,,,,,,40.13,11.0,3.0,False
+P0162,treatment,21.0,woman,Other,vegetarian,0.0,4.0,0.0,environmental,3.0,34.0,21.67,4.25,35.28,0.0,0.0,19.55,0.0,17.0,,,,,,,,,12.22,8.0,6.0,False
+P0163,treatment,58.0,woman,United States,omnivore,1.0,1.0,0.0,environmental,3.0,34.5,28.08,27.65,27.65,19.68,31.25,16.85,20.5,20.5,20.5,20.5,20.5,29.25,4.77,18.55,3.0,probably_yes,21.87,14.0,0.0,True
+P0164,treatment,63.0,woman,United States,omnivore,2.0,3.0,1.0,health,3.0,83.8,40.33,34.03,16.93,7.65,10.63,16.93,14.8,34.03,34.03,15.3,21.6,6.3,13.32,37.35,3.0,yes_definitely,21.66,14.0,0.0,True
+P0165,treatment,73.0,woman,United States,omnivore,1.0,3.0,0.0,environmental,2.0,51.5,39.51,23.43,39.55,73.83,31.53,43.13,36.67,6.33,21.18,10.49,12.75,6.72,4.89,39.22,3.0,probably_yes,27.8,14.0,0.0,True
+P0166,treatment,78.0,man,Other,omnivore,1.0,1.0,0.0,health,1.0,34.5,0.0,0.0,0.0,0.0,4.55,0.0,50.63,20.0,20.0,0.0,0.0,10.75,0.0,0.0,2.0,yes_definitely,7.57,14.0,0.0,True
+P0167,treatment,63.0,woman,United States,omnivore,1.0,2.0,1.0,environmental,2.0,49.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,yes_definitely,0.0,14.0,0.0,True
+P0168,control,73.0,prefer_not_to_say,United States,vegetarian,0.0,0.0,0.0,other,1.0,0.0,,,,,,,,,,,,,,,,,,,,
+P0169,control,21.0,woman,United States,omnivore,1.0,1.0,2.0,curiosity,2.0,47.1,91.28,55.0,38.93,48.25,38.29,29.07,11.61,65.29,7.65,48.75,53.75,34.5,68.93,55.9,,probably_not,46.23,14.0,0.0,True
+P0170,treatment,33.0,woman,United States,omnivore,3.0,0.0,1.0,curiosity,2.0,84.3,14.47,6.3,31.3,21.3,30.51,21.3,37.55,21.3,21.3,37.55,21.3,21.3,44.7,21.3,5.0,yes_definitely,25.11,14.0,0.0,True
+P0171,treatment,68.0,woman,United States,omnivore,1.0,1.0,0.0,environmental,2.0,34.5,5.67,0.0,0.0,2.2,0.0,0.0,0.0,,1.1,1.1,1.1,0.0,0.0,0.0,,,0.86,13.0,1.0,True
+P0172,control,48.0,woman,United States,omnivore,1.0,23.0,0.0,environmental,2.0,221.5,26.35,49.54,26.0,47.17,49.63,69.32,22.87,48.35,26.6,28.31,57.53,30.24,71.87,63.14,,probably_yes,44.06,14.0,0.0,True
+P0173,treatment,21.0,woman,United States,pescatarian,1.0,3.0,2.0,health,4.0,64.1,,,,,,,,,,,,,,,,,,,,
+P0174,treatment,53.0,woman,United States,omnivore,1.0,1.0,0.0,health,3.0,34.5,18.43,0.0,12.6,0.0,31.05,36.72,6.38,0.0,40.0,17.42,0.0,0.0,0.0,9.35,2.0,yes_definitely,12.28,14.0,0.0,True
+P0175,control,58.0,woman,United States,omnivore,1.0,1.0,1.0,curiosity,2.0,40.8,21.25,10.63,18.5,53.75,26.38,65.0,43.13,35.63,46.25,21.25,16.41,24.25,37.65,5.86,,probably_yes,30.42,14.0,0.0,True
+P0176,control,33.0,woman,Other,omnivore,2.0,3.0,0.0,animal_welfare,3.0,77.5,,,,,,,,,,,,,,,,unsure,,,,
+P0177,treatment,38.0,woman,United States,pescatarian,1.0,2.0,0.0,health,2.0,43.0,37.23,53.75,0.0,10.63,21.25,52.55,56.88,21.25,43.13,64.38,76.0,68.13,98.03,,,,46.4,13.0,1.0,True
+P0178,treatment,48.0,woman,United States,omnivore,1.0,0.5,0.5,animal_welfare,2.0,33.4,38.21,72.45,7.65,43.5,20.25,36.0,0.0,8.19,10.63,10.63,16.25,8.73,28.69,41.0,3.0,probably_yes,24.44,14.0,0.0,True
+P0179,treatment,68.0,woman,Other,omnivore,1.0,0.5,1.0,environmental,3.0,36.55,,,,,,,,,,,,,,,,,,,,
+P0180,treatment,21.0,woman,United States,omnivore,2.0,1.0,0.0,curiosity,3.0,60.5,65.0,88.4,74.1,32.5,65.0,77.6,32.5,32.5,57.85,65.0,32.5,40.38,36.0,13.0,,,50.88,14.0,0.0,True
+P0181,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0182,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0183,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0184,control,53.0,man,United States,omnivore,2.0,0.0,2.0,curiosity,1.0,64.6,61.44,,,,,,,,,,,,,,,,61.44,1.0,13.0,False
+P0185,treatment,53.0,woman,United States,omnivore,2.0,1.0,1.0,health,2.0,66.8,0.0,40.88,9.0,,,,,,,,,,,,,,16.63,3.0,11.0,False
+P0186,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0187,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0188,treatment,48.0,man,Other,vegetarian,0.0,1.0,3.0,environmental,1.0,27.4,0.0,18.9,0.0,0.0,0.0,0.0,18.9,7.88,0.0,0.0,0.0,0.0,0.0,0.0,2.0,yes_definitely,3.26,14.0,0.0,True
+P0189,treatment,33.0,man,United States,omnivore,2.0,3.0,2.0,environmental,2.0,90.1,123.28,,,,,,,,,,,,,,3.0,probably_yes,123.28,1.0,13.0,False
+P0190,treatment,58.0,woman,United States,omnivore,2.0,1.0,1.0,health,4.0,66.8,15.0,1.06,12.13,10.55,6.38,,,,,,,,,,,,9.02,5.0,9.0,False
+P0191,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0192,treatment,63.0,woman,United States,omnivore,1.0,3.0,1.0,environmental,3.0,57.8,43.53,28.4,37.73,,,,,,,,,,,,,,36.55,3.0,11.0,False
+P0193,treatment,78.0,woman,United States,pescatarian,0.0,0.5,0.0,environmental,1.0,4.25,14.09,12.6,12.6,12.6,0.0,12.6,0.0,41.3,20.01,17.42,17.42,30.02,0.0,12.6,2.0,probably_yes,14.52,14.0,0.0,True
+P0194,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0195,treatment,53.0,woman,United States,omnivore,2.5,0.0,2.0,curiosity,5.0,77.6,20.0,17.42,26.0,17.42,0.0,26.0,26.0,17.42,8.58,32.5,,,,,,,19.13,10.0,4.0,False
+P0196,treatment,78.0,woman,United States,vegetarian,1.0,1.0,0.0,health,2.0,34.5,4.46,21.25,51.0,10.63,16.58,2.59,4.68,12.5,48.65,4.68,10.2,4.25,9.23,2.34,3.0,yes_definitely,14.5,14.0,0.0,True
+P0197,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0198,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0199,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0200,treatment,21.0,man,United States,omnivore,1.0,4.0,1.0,environmental,3.0,66.3,55.53,43.13,43.13,55.73,43.13,51.0,43.13,43.13,10.63,43.13,43.13,43.13,43.13,,,,43.15,13.0,1.0,True
+P0201,control,58.0,woman,United States,omnivore,1.0,3.0,1.0,environmental,4.0,57.8,19.63,21.15,25.27,26.85,2.72,16.75,25.68,1.96,15.76,18.27,0.85,23.8,69.81,20.4,,probably_yes,20.63,14.0,0.0,True
+P0202,treatment,28.0,woman,United States,omnivore,1.0,3.0,2.0,environmental,3.0,64.1,10.13,23.9,6.38,,19.13,7.23,,,,,,,0.0,,,,11.13,6.0,8.0,False
+P0203,treatment,38.0,woman,United States,vegetarian,0.0,4.0,2.0,animal_welfare,4.0,46.6,46.28,16.15,5.53,23.8,12.96,0.0,24.69,0.0,0.0,12.15,9.35,35.28,22.1,22.21,3.0,probably_yes,16.46,14.0,0.0,True
+P0204,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0205,treatment,21.0,woman,United States,omnivore,1.0,1.0,0.0,curiosity,1.0,34.5,43.13,32.5,43.13,32.5,75.63,33.01,32.5,32.5,32.5,,,,,32.5,,,38.99,10.0,4.0,False
+P0206,control,33.0,woman,United States,vegetarian,0.0,0.25,0.0,other,2.0,2.13,5.95,1.45,7.06,0.0,0.0,21.51,2.13,1.49,0.26,8.5,5.74,0.77,0.77,0.26,,probably_yes,3.99,14.0,0.0,True
+P0207,treatment,21.0,woman,United States,pescatarian,0.5,1.0,0.0,animal_welfare,1.0,21.5,3.83,50.0,61.33,4.25,25.0,57.5,35.63,,57.5,36.75,65.0,,65.0,,3.0,yes_definitely,41.98,11.0,3.0,False
+P0208,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0209,control,21.0,woman,United States,vegetarian,0.0,0.0,1.0,environmental,1.0,6.3,10.63,10.63,0.0,0.0,27.9,9.92,0.0,0.0,8.5,13.24,7.65,0.0,13.32,17.91,,probably_yes,8.55,14.0,0.0,True
+P0210,control,33.0,woman,United States,omnivore,3.0,2.0,0.0,curiosity,5.0,95.0,,,,,,,,,,,,,,,,,,,,
+P0211,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0212,control,38.0,man,United States,omnivore,2.0,2.0,0.0,environmental,1.0,69.0,23.4,25.0,0.0,,32.5,65.0,32.5,,32.5,,,,,,,yes_definitely,30.13,7.0,7.0,False
+P0213,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0214,control,21.0,man,United States,pescatarian,1.0,2.0,0.0,curiosity,1.0,43.0,80.72,31.93,49.03,41.23,28.63,10.63,10.63,27.55,21.25,21.25,10.63,0.0,0.0,3.83,,probably_yes,24.09,14.0,0.0,True
+P0215,treatment,48.0,woman,United States,vegetarian,0.0,1.0,0.0,animal_welfare,2.0,8.5,1.49,1.06,4.25,4.25,,4.89,10.63,1.06,10.63,0.0,1.06,28.9,1.06,0.64,2.0,yes_definitely,5.38,13.0,1.0,True
+P0216,control,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0217,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0218,control,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0219,treatment,28.0,man,United States,vegetarian,0.0,2.0,0.0,animal_welfare,3.0,17.0,10.63,4.25,0.0,4.25,0.0,0.0,,0.0,,,,,,,,,2.73,7.0,7.0,False
+P0220,treatment,58.0,woman,Other,pescatarian,1.0,1.0,1.0,environmental,2.0,40.8,,,,,,,,,,,,,,,,,,,,
+P0221,treatment,58.0,woman,United States,omnivore,2.0,2.0,1.0,health,3.0,75.3,8.5,28.13,10.84,45.34,16.25,21.67,26.6,34.58,0.0,10.4,10.58,26.0,20.8,5.44,3.0,yes_definitely,18.94,14.0,0.0,True
+P0222,treatment,28.0,prefer_not_to_say,Other,omnivore,1.0,1.0,3.0,curiosity,2.0,53.4,52.02,34.2,1.1,40.38,18.63,35.94,,66.1,46.55,52.45,,72.45,,116.55,,,48.76,11.0,3.0,False
+P0223,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0224,treatment,78.0,woman,United States,omnivore,1.0,2.0,0.0,environmental,1.0,43.0,,,,,,,,,,,,,,,,,,,,
+P0225,treatment,48.0,woman,United States,pescatarian,0.0,2.0,0.0,animal_welfare,2.0,17.0,10.63,21.25,26.92,55.63,25.65,8.29,11.9,22.1,14.88,7.65,,25.21,7.65,25.65,2.0,yes_definitely,20.26,13.0,1.0,True
+P0226,treatment,21.0,woman,Other,omnivore,2.0,3.0,2.0,curiosity,2.0,90.1,23.23,52.69,46.07,25.81,,,66.53,,,,,,,,,,42.86,5.0,9.0,False
+P0227,control,78.0,woman,United States,omnivore,1.0,2.0,0.0,animal_welfare,2.0,43.0,15.6,54.3,82.1,63.2,11.79,56.4,30.2,34.19,63.74,44.72,29.79,30.22,24.3,,,probably_yes,41.58,13.0,1.0,True
+P0228,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0229,treatment,48.0,man,Other,omnivore,2.0,2.0,1.0,curiosity,3.0,75.3,,,,,,,,,,,,,,,,,,,,
+P0230,treatment,33.0,woman,United States,omnivore,1.5,1.0,2.0,curiosity,3.0,60.1,,,,,,,,,,,,,,,,,,,,
+P0231,control,63.0,woman,United States,omnivore,1.0,2.0,0.0,environmental,2.0,43.0,0.0,7.99,0.0,9.77,0.0,9.77,29.75,43.13,9.05,67.08,60.58,42.57,0.0,34.58,,yes_definitely,22.45,14.0,0.0,True
+P0232,treatment,28.0,man,United States,omnivore,2.0,2.0,1.0,other,2.0,75.3,0.0,0.0,3.47,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.0,no,0.25,14.0,0.0,True
+P0233,treatment,58.0,woman,United States,omnivore,1.0,2.0,2.0,environmental,3.0,55.6,28.59,38.84,37.74,26.86,14.49,30.13,55.19,1.06,70.49,63.45,91.53,59.94,67.2,35.13,1.0,yes_definitely,44.33,14.0,0.0,True
+P0234,treatment,28.0,woman,United States,omnivore,2.0,1.0,0.5,curiosity,3.0,63.65,46.25,32.5,29.43,19.25,68.25,42.11,34.97,16.25,4.25,,,,,,,,32.58,9.0,5.0,False
+P0235,control,68.0,woman,United States,omnivore,1.0,2.0,0.0,environmental,2.0,43.0,21.25,17.0,52.4,12.59,29.0,77.75,77.75,8.5,14.88,12.75,114.5,114.5,96.13,12.75,,probably_yes,47.27,14.0,0.0,True
+P0236,treatment,68.0,woman,United States,pescatarian,0.0,0.0,0.5,health,1.0,3.15,26.35,0.0,10.46,0.0,0.0,0.0,0.0,0.0,0.0,2.59,1.49,2.97,8.15,7.05,1.0,yes_definitely,4.22,14.0,0.0,True
+P0237,treatment,63.0,woman,United States,omnivore,2.0,2.0,1.0,health,3.0,75.3,9.25,0.43,33.94,28.08,6.73,23.91,12.69,26.4,35.13,15.3,42.27,31.48,31.9,36.49,2.0,yes_definitely,23.86,14.0,0.0,True
+P0238,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0239,treatment,58.0,woman,United States,omnivore,1.0,4.0,1.0,environmental,2.0,66.3,51.05,56.24,37.0,22.1,31.94,48.94,16.28,42.74,16.4,23.4,10.29,80.96,19.77,66.58,3.0,probably_yes,37.41,14.0,0.0,True
+P0240,treatment,78.0,woman,United States,omnivore,2.0,3.0,1.0,animal_welfare,3.0,83.8,17.12,,,,,,,,,,,,,,,,17.12,1.0,13.0,False
+P0241,treatment,73.0,woman,United States,omnivore,1.0,3.0,1.0,environmental,2.0,57.8,33.0,51.05,23.38,33.92,38.51,45.1,60.5,34.85,35.85,14.8,19.05,27.03,19.05,19.05,1.0,yes_definitely,32.51,14.0,0.0,True
+P0242,treatment,33.0,woman,United States,omnivore,0.0,2.0,2.0,environmental,2.0,29.6,27.25,,,,,,,,,,,,,,,,27.25,1.0,13.0,False
+P0243,treatment,21.0,woman,United States,omnivore,3.0,1.0,1.0,animal_welfare,4.0,92.8,,,,32.5,,,,,,,,,,,3.0,yes_definitely,32.5,1.0,13.0,False
+P0244,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0245,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0246,treatment,63.0,woman,United States,omnivore,2.0,1.0,1.0,health,3.0,66.8,39.55,8.5,36.15,54.15,32.33,23.8,8.5,31.9,40.4,66.05,26.5,43.8,32.17,47.07,2.0,unsure,35.06,14.0,0.0,True
+P0247,treatment,73.0,man,United States,vegetarian,0.0,0.0,0.0,environmental,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,yes_definitely,0.0,14.0,0.0,True
+P0248,treatment,68.0,woman,Other,omnivore,2.0,2.0,2.0,health,3.0,81.6,79.09,51.0,105.08,51.0,95.15,36.33,92.08,57.65,166.0,23.4,109.56,36.0,,,4.0,yes_definitely,75.19,12.0,2.0,True
+P0249,treatment,21.0,woman,United States,omnivore,0.0,2.0,0.0,environmental,2.0,17.0,15.79,0.0,0.0,4.25,0.0,76.92,0.64,27.65,1.06,1.06,8.5,1.06,5.67,0.0,2.0,probably_yes,10.19,14.0,0.0,True
+P0250,treatment,33.0,woman,United States,omnivore,2.0,4.0,2.0,environmental,3.0,98.6,42.46,56.15,1.7,54.17,25.37,40.67,,56.15,,,,,67.77,80.44,4.0,yes_definitely,47.21,9.0,5.0,False
+P0251,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0252,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0253,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0254,control,68.0,man,United States,omnivore,2.0,3.0,1.0,curiosity,3.0,83.8,66.49,63.95,61.14,52.31,83.85,110.37,72.97,72.21,38.87,54.53,73.36,49.69,65.08,55.84,,probably_yes,65.76,14.0,0.0,True
+P0255,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0256,treatment,48.0,woman,United States,omnivore,1.0,2.0,1.0,health,2.0,49.3,3.47,7.65,0.0,0.85,1.49,15.3,0.0,7.65,4.25,0.0,15.3,1.49,15.3,7.65,2.0,yes_definitely,5.74,14.0,0.0,True
+P0257,treatment,53.0,woman,Other,omnivore,0.0,1.0,0.0,environmental,1.0,8.5,40.08,75.47,75.47,80.91,,106.15,,82.96,,75.47,,75.47,75.47,101.15,2.0,yes_definitely,78.86,10.0,4.0,False
+P0258,treatment,33.0,woman,Other,omnivore,2.0,1.0,1.0,health,2.0,66.8,18.5,40.38,18.5,23.4,7.65,68.5,31.05,4.25,0.0,7.65,7.65,7.65,23.4,8.5,3.0,yes_definitely,19.08,14.0,0.0,True
+P0259,treatment,38.0,woman,United States,omnivore,1.0,3.0,0.5,animal_welfare,2.0,54.65,30.8,4.21,1.49,4.21,4.26,9.14,,1.49,16.79,0.0,4.25,23.4,47.16,39.55,2.0,yes_definitely,14.36,13.0,1.0,True
+P0260,treatment,28.0,woman,United States,pescatarian,0.0,0.25,2.0,animal_welfare,1.0,14.73,10.63,,,,,,,,,,,,,,,,10.63,1.0,13.0,False
+P0261,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0262,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0263,treatment,21.0,man,United States,vegetarian,0.0,0.5,0.5,animal_welfare,2.0,7.4,34.38,18.9,4.25,12.6,12.6,0.0,,,,,,,,,,,13.79,6.0,8.0,False
+P0264,control,21.0,man,Other,omnivore,1.0,0.5,0.0,other,2.0,30.25,11.63,38.8,40.0,9.3,18.15,3.0,3.8,3.8,0.0,0.0,10.1,6.3,33.15,7.5,,yes_definitely,13.25,14.0,0.0,True
+P0265,treatment,68.0,man,United States,omnivore,0.5,5.0,0.5,curiosity,1.0,58.65,31.88,21.25,91.73,72.25,69.5,21.25,0.0,82.88,75.0,50.38,21.25,31.88,21.25,10.63,1.0,unsure,42.94,14.0,0.0,True
+P0266,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0267,treatment,53.0,woman,Other,pescatarian,0.0,1.0,1.0,environmental,3.0,14.8,0.0,4.25,0.0,0.0,12.3,0.0,6.29,0.0,11.69,0.0,33.01,0.26,9.36,0.0,3.0,unsure,5.51,14.0,0.0,True
+P0268,control,48.0,woman,United States,omnivore,2.0,2.0,0.0,curiosity,3.0,69.0,60.13,118.13,61.63,180.38,104.18,61.63,64.38,56.88,72.3,72.46,126.63,21.67,53.75,80.18,,no,81.02,14.0,0.0,True
+P0269,treatment,63.0,woman,United States,omnivore,1.0,1.0,1.0,environmental,2.0,40.8,44.19,53.75,41.44,32.5,13.56,42.76,27.23,46.8,64.07,70.84,38.53,6.5,6.04,25.81,5.0,probably_yes,36.71,14.0,0.0,True
+P0270,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0271,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0272,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0273,treatment,78.0,woman,United States,pescatarian,0.0,2.0,1.0,health,3.0,23.3,0.0,6.3,6.3,6.3,0.0,16.93,18.5,10.63,10.63,10.63,13.4,53.75,43.13,43.13,2.0,yes_definitely,17.11,14.0,0.0,True
+P0274,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0275,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0276,treatment,33.0,woman,United States,omnivore,0.0,2.0,0.0,curiosity,2.0,17.0,,5.31,51.05,,40.55,23.4,0.0,0.0,,,32.5,43.92,,27.65,2.0,probably_not,24.93,9.0,5.0,False
+P0277,treatment,48.0,man,United States,omnivore,0.5,1.0,1.0,environmental,3.0,27.8,64.38,21.25,0.0,43.13,0.0,53.75,0.0,0.0,0.0,0.0,43.13,,0.0,43.13,2.0,yes_definitely,20.67,13.0,1.0,True
+P0278,treatment,28.0,man,United States,omnivore,3.0,4.0,2.0,health,2.0,124.6,17.85,18.27,0.0,12.58,88.71,60.12,0.0,0.85,57.43,15.3,0.0,0.0,87.45,,3.0,probably_yes,27.58,13.0,1.0,True
+P0279,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0280,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0281,treatment,68.0,woman,United States,vegetarian,1.0,4.0,1.0,environmental,1.0,66.3,,,,,,,,,,,,,,,,,,,,
+P0282,treatment,73.0,woman,United States,omnivore,1.0,0.0,1.0,health,2.0,32.3,23.4,18.43,12.6,0.0,41.6,35.68,0.0,27.69,0.0,27.4,56.25,0.0,20.47,8.19,3.0,yes_definitely,19.41,14.0,0.0,True
+P0283,control,73.0,woman,United States,pescatarian,0.0,0.5,0.0,health,2.0,4.25,7.91,8.67,8.24,6.21,1.02,41.11,16.15,8.07,18.11,8.67,4.68,27.14,2.55,14.45,,yes_definitely,12.35,14.0,0.0,True
+P0284,treatment,28.0,man,United States,omnivore,0.15,1.25,1.0,environmental,1.0,20.83,21.25,10.84,26.48,27.12,0.0,10.84,5.44,10.84,21.67,21.24,14.24,5.44,5.44,10.84,,,13.69,14.0,0.0,True
+P0285,control,28.0,man,United States,omnivore,2.0,1.0,1.0,environmental,3.0,66.8,38.6,52.0,56.25,34.5,52.0,103.35,112.5,52.0,28.5,72.0,78.0,60.5,78.0,56.25,,yes_definitely,62.46,14.0,0.0,True
+P0286,control,73.0,woman,United States,omnivore,1.0,2.0,0.0,environmental,2.0,43.0,21.42,38.57,3.99,47.42,38.57,38.57,3.99,38.57,44.0,44.0,56.0,42.57,32.64,40.61,,probably_yes,35.07,14.0,0.0,True
+P0287,treatment,63.0,woman,United States,omnivore,2.0,2.0,1.0,health,3.0,75.3,135.0,71.81,28.73,48.93,55.78,60.05,35.9,121.83,90.59,75.53,94.72,220.78,82.03,107.28,4.0,yes_definitely,87.78,14.0,0.0,True
+P0288,treatment,48.0,woman,United States,omnivore,3.0,1.0,3.0,environmental,4.0,105.4,69.4,26.9,40.38,51.05,105.79,8.19,20.3,,55.05,12.43,,68.19,29.7,27.65,,,42.92,12.0,2.0,True
+P0289,treatment,73.0,woman,United States,omnivore,1.0,1.0,1.0,other,2.0,40.8,7.34,0.0,25.0,6.3,10.63,0.0,0.0,6.3,0.0,41.6,0.0,0.0,0.0,5.78,2.0,probably_yes,7.35,14.0,0.0,True
+P0290,treatment,73.0,woman,United States,pescatarian,0.0,2.0,1.0,health,1.0,23.3,,,,,,,,,,,,,,,,,,,,
+P0291,treatment,53.0,woman,United States,omnivore,1.0,2.0,2.0,curiosity,2.0,55.6,0.0,16.25,0.43,43.42,69.16,1.1,8.5,98.65,7.15,49.6,49.6,2.59,19.96,7.99,1.0,yes_definitely,26.74,14.0,0.0,True
+P0292,treatment,21.0,woman,Other,omnivore,1.0,2.0,2.0,environmental,3.0,55.6,15.91,,,,,,,,,,,,,,,,15.91,1.0,13.0,False
+P0293,control,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0294,treatment,53.0,woman,United States,omnivore,1.0,1.0,0.0,health,3.0,34.5,21.25,86.25,32.5,32.5,35.63,32.5,61.63,10.63,0.0,10.63,10.63,43.13,43.13,43.13,2.0,yes_definitely,33.11,14.0,0.0,True
+P0295,treatment,28.0,woman,United States,omnivore,1.0,2.0,0.0,environmental,2.0,43.0,2.59,5.67,,,,,,,,,,,,,2.0,yes_definitely,4.13,2.0,12.0,False
+P0296,treatment,58.0,woman,Other,pescatarian,0.25,1.0,0.0,environmental,2.0,15.0,0.0,23.75,4.25,0.0,6.3,0.0,0.0,0.0,0.0,0.0,18.81,0.0,0.0,0.0,2.0,yes_definitely,3.79,14.0,0.0,True
+P0297,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0298,control,28.0,woman,Other,omnivore,1.0,1.0,1.0,environmental,3.0,40.8,32.5,32.5,32.5,,,,,,,,,,,,,,32.5,3.0,11.0,False
+P0299,treatment,21.0,woman,United States,pescatarian,0.5,1.0,1.0,animal_welfare,2.0,27.8,7.59,0.0,0.0,0.0,10.63,43.13,7.65,,,,,,,,,,9.86,7.0,7.0,False
+P0300,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0301,treatment,28.0,woman,United States,omnivore,1.0,1.0,6.0,curiosity,5.0,72.3,9.29,32.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.5,37.8,31.5,0.0,0.0,5.0,probably_yes,8.4,14.0,0.0,True
+P0302,treatment,48.0,man,United States,omnivore,1.0,3.0,1.0,curiosity,2.0,57.8,0.81,0.0,0.0,0.81,0.0,0.0,0.0,0.81,3.83,0.0,0.81,0.0,46.8,7.88,1.0,unsure,4.41,14.0,0.0,True
+P0303,treatment,73.0,woman,Other,pescatarian,0.0,2.0,0.0,curiosity,1.0,17.0,19.56,14.54,25.5,38.46,22.31,38.46,7.18,11.01,18.11,27.88,30.6,19.86,23.39,21.25,3.0,probably_yes,22.72,14.0,0.0,True
+P0304,treatment,78.0,woman,United States,omnivore,0.0,1.0,1.0,environmental,2.0,14.8,43.13,40.88,72.3,35.28,,40.88,14.88,46.3,58.3,,,,,,3.0,yes_definitely,43.99,8.0,6.0,False
+P0305,treatment,63.0,woman,Other,vegetarian,0.0,2.0,0.0,health,2.0,17.0,4.25,0.0,0.0,4.25,3.49,4.34,11.99,12.6,3.49,0.0,0.0,0.0,0.0,0.0,2.0,yes_definitely,3.17,14.0,0.0,True
+P0306,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0307,treatment,58.0,man,United States,omnivore,2.0,2.0,0.5,environmental,3.0,72.15,,,,,,,,,,,,,,,,,,,,
+P0308,treatment,53.0,woman,United States,omnivore,0.0,0.0,0.0,health,2.0,0.0,,,,,,,,,,,,,,,2.0,probably_not,,,,
+P0309,treatment,78.0,woman,United States,omnivore,1.0,2.0,0.0,health,3.0,43.0,13.94,7.15,24.04,47.85,37.67,9.9,38.7,74.35,41.9,28.35,51.58,39.44,92.0,26.69,3.0,yes_definitely,38.11,14.0,0.0,True
+P0310,treatment,21.0,man,United States,omnivore,2.0,2.0,1.0,environmental,3.0,75.3,17.31,,,24.75,15.0,24.75,20.5,0.0,,0.0,16.25,,31.05,48.75,4.0,probably_yes,19.84,10.0,4.0,False
+P0311,treatment,58.0,woman,United States,omnivore,2.0,1.0,1.0,environmental,3.0,66.8,37.24,22.55,106.92,,,,,,,,,,,,,,55.57,3.0,11.0,False
+P0312,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0313,treatment,58.0,woman,United States,omnivore,1.0,1.0,1.0,animal_welfare,3.0,40.8,23.4,8.89,4.25,23.4,18.84,5.74,51.25,43.3,27.65,29.7,0.0,29.7,0.0,0.0,2.0,yes_definitely,19.01,14.0,0.0,True
+P0314,treatment,73.0,woman,United States,omnivore,1.0,1.0,1.0,other,2.0,40.8,0.0,63.48,17.42,0.0,0.0,52.0,52.0,0.0,53.2,0.0,11.48,0.0,42.85,0.0,1.0,yes_definitely,20.89,14.0,0.0,True
+P0315,treatment,78.0,woman,United States,pescatarian,1.0,1.0,0.0,environmental,1.0,34.5,15.3,,33.3,,,,,,,,,,,,,,24.3,2.0,12.0,False
+P0316,control,78.0,woman,United States,omnivore,0.5,2.0,0.5,curiosity,2.0,33.15,24.1,,,,,,,,,,,,,,,,24.1,1.0,13.0,False
+P0317,treatment,28.0,woman,United States,vegetarian,0.0,2.0,2.0,environmental,2.0,29.6,11.43,23.23,18.5,4.89,13.24,1.15,3.36,6.81,4.76,1.62,7.23,11.31,0.51,5.4,2.0,probably_yes,8.1,14.0,0.0,True
+P0318,control,38.0,man,Other,omnivore,0.5,1.0,0.1,curiosity,1.0,22.13,30.74,17.76,74.28,21.19,34.83,16.76,37.98,112.6,44.86,28.35,34.09,38.66,35.69,75.34,,no,43.08,14.0,0.0,True
+P0319,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0320,treatment,38.0,woman,Other,omnivore,0.5,3.0,1.0,animal_welfare,2.0,44.8,1.06,12.6,0.0,0.0,0.0,0.0,4.25,0.0,0.0,9.6,0.0,0.0,0.0,0.0,3.0,yes_definitely,1.97,14.0,0.0,True
+P0321,treatment,58.0,woman,Other,vegetarian,0.0,0.5,0.0,health,2.0,4.25,,,,,,,,,,,,,,,,,,,,
+P0322,control,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0323,control,63.0,woman,United States,omnivore,1.0,3.0,2.0,curiosity,3.0,64.1,31.05,23.4,54.45,0.0,0.0,10.63,41.4,32.5,31.05,33.3,7.65,0.0,31.05,32.5,,probably_yes,23.5,14.0,0.0,True
+P0324,treatment,58.0,woman,United States,omnivore,2.0,2.0,1.0,health,4.0,75.3,23.23,0.26,0.26,32.76,6.56,69.41,0.26,40.26,82.06,70.01,,,,24.93,4.0,probably_yes,31.81,11.0,3.0,False
+P0325,control,63.0,woman,Other,omnivore,0.0,0.5,1.0,environmental,2.0,10.55,42.2,68.34,10.12,30.31,18.24,13.45,10.12,39.72,27.24,104.52,64.32,65.04,24.96,54.92,,unsure,40.96,14.0,0.0,True
+P0326,treatment,21.0,woman,United States,omnivore,4.0,0.0,0.0,curiosity,3.0,104.0,23.4,23.4,25.0,32.5,32.5,23.4,18.0,54.0,36.0,0.0,46.8,23.4,23.4,23.4,3.0,probably_yes,27.51,14.0,0.0,True
+P0327,treatment,48.0,woman,United States,vegetarian,0.0,3.0,0.0,curiosity,2.0,25.5,12.6,13.18,11.9,9.14,8.5,8.5,32.3,0.81,2.97,28.61,,,,,,,12.85,10.0,4.0,False
+P0328,treatment,21.0,man,United States,omnivore,4.0,3.0,2.0,curiosity,3.0,142.1,144.8,37.88,110.18,32.5,22.88,59.38,47.38,161.05,42.28,81.25,,91.25,8.5,31.05,2.0,probably_yes,66.95,13.0,1.0,True
+P0329,treatment,28.0,man,United States,omnivore,2.0,2.0,0.0,curiosity,2.0,69.0,9.14,25.85,1.7,,,,,,,,,,,,,,12.23,3.0,11.0,False
+P0330,control,68.0,woman,United States,omnivore,1.0,3.0,1.0,environmental,4.0,57.8,,,,,,,,,,,,,,,,,,,,
+P0331,treatment,33.0,woman,United States,omnivore,3.0,3.0,1.0,animal_welfare,3.0,109.8,42.62,47.23,,,,,,,,,,,,,,,44.92,2.0,12.0,False
+P0332,control,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0333,treatment,21.0,woman,Other,vegetarian,0.0,1.0,2.0,animal_welfare,2.0,21.1,8.93,10.63,10.63,7.88,4.68,1.49,0.0,6.38,0.0,10.55,0.0,19.19,6.3,,,,6.66,13.0,1.0,True
+P0334,treatment,48.0,woman,Other,omnivore,1.5,3.0,1.0,environmental,3.0,70.8,,99.04,21.1,62.77,11.23,32.35,2.13,11.05,9.52,13.62,33.3,12.75,39.18,4.68,2.0,probably_yes,27.13,13.0,1.0,True
+P0335,treatment,21.0,man,United States,omnivore,2.0,2.0,0.0,curiosity,3.0,69.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,probably_yes,0.0,14.0,0.0,True
+P0336,treatment,73.0,woman,United States,vegetarian,0.0,1.0,1.0,animal_welfare,1.0,14.8,0.0,0.0,0.0,0.43,,0.0,0.0,0.0,0.0,0.0,,,,0.0,,,0.04,10.0,4.0,False
+P0337,treatment,58.0,man,United States,omnivore,3.0,2.0,0.0,animal_welfare,5.0,95.0,140.66,109.63,0.0,36.72,90.99,72.65,133.72,39.65,138.29,10.63,95.66,206.16,78.75,130.23,5.0,no,91.69,14.0,0.0,True
+P0338,treatment,73.0,woman,United States,vegetarian,0.0,2.0,1.0,animal_welfare,2.0,23.3,10.64,9.83,10.84,7.14,20.5,4.25,23.91,12.85,14.02,8.59,14.0,14.0,2.81,,2.0,yes_definitely,11.8,13.0,1.0,True
+P0339,treatment,73.0,woman,United States,vegetarian,0.0,2.0,2.0,curiosity,1.0,29.6,,,,,,,,,,,,,,,,,,,,
+P0340,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0341,treatment,73.0,woman,United States,pescatarian,0.0,2.0,0.0,curiosity,1.0,17.0,23.23,10.63,10.63,21.25,0.0,4.25,4.25,12.68,10.55,21.51,19.98,31.45,15.73,15.73,1.0,probably_yes,14.42,14.0,0.0,True
+P0342,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0343,treatment,21.0,woman,United States,omnivore,1.0,3.0,0.0,environmental,2.0,51.5,,,,,,,,,,,,,,,,,,,,
+P0344,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0345,treatment,21.0,man,United States,omnivore,1.0,4.0,1.0,curiosity,4.0,66.3,29.88,29.07,21.25,,,,,,,,,,,,,,26.73,3.0,11.0,False
+P0346,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0347,treatment,58.0,man,United States,omnivore,0.5,1.0,0.5,curiosity,3.0,24.65,7.88,8.43,2.13,16.93,14.8,8.5,18.9,8.5,8.5,3.7,21.1,12.6,32.3,24.8,2.0,probably_yes,13.5,14.0,0.0,True
+P0348,treatment,78.0,woman,United States,omnivore,1.0,1.0,1.0,health,2.0,40.8,52.98,3.63,5.99,5.82,6.29,13.0,2.89,39.93,14.41,4.25,29.7,8.5,2.89,25.67,1.0,probably_yes,15.42,14.0,0.0,True
+P0349,treatment,38.0,woman,Other,pescatarian,0.0,0.0,0.0,curiosity,1.0,0.0,21.25,57.5,18.5,31.88,7.88,46.25,,,,,,,,,,,30.54,6.0,8.0,False
+P0350,treatment,43.0,woman,United States,omnivore,1.0,0.0,0.0,environmental,3.0,26.0,26.98,27.73,17.26,52.0,46.0,68.3,34.5,54.9,46.58,26.18,21.7,21.7,,,,,36.98,12.0,2.0,True
+P0351,treatment,73.0,woman,United States,omnivore,1.0,1.0,1.0,animal_welfare,2.0,40.8,,,,,,,,,,,,,,,,,,0.0,14.0,False
+P0352,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0353,control,21.0,man,United States,omnivore,6.0,0.5,0.0,curiosity,3.0,160.25,46.8,48.4,46.8,31.05,23.4,23.4,32.5,46.8,46.8,25.0,23.4,23.4,46.8,46.8,,no,36.53,14.0,0.0,True
+P0354,treatment,63.0,man,United States,omnivore,2.0,1.0,2.0,environmental,1.0,73.1,0.0,,,,,,,,,,,,,,,,0.0,1.0,13.0,False
+P0355,control,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0356,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0357,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0358,treatment,58.0,woman,United States,omnivore,1.0,2.0,2.0,environmental,4.0,55.6,68.13,,,,,,,,,,,,,,,,68.13,1.0,13.0,False
+P0359,treatment,28.0,woman,United States,omnivore,2.0,4.0,0.0,animal_welfare,3.0,86.0,,,26.09,,,,43.13,,,,135.43,12.75,,,,,54.35,4.0,10.0,False
+P0360,control,33.0,woman,United States,vegetarian,0.0,0.0,0.0,animal_welfare,1.0,0.0,0.0,,,,,,,,4.25,,,,,,,,2.13,2.0,12.0,False
+P0361,treatment,63.0,woman,Other,omnivore,1.0,2.0,1.0,curiosity,3.0,49.3,0.5,3.99,0.5,47.49,5.52,0.5,4.84,13.59,1.35,0.5,3.9,1.31,57.78,4.11,3.0,yes_definitely,10.42,14.0,0.0,True
+P0362,control,73.0,woman,United States,pescatarian,0.0,3.0,1.0,animal_welfare,2.0,31.8,,,,,,,,,,,,,,,,,,,,
+P0363,treatment,33.0,woman,United States,omnivore,2.0,2.0,1.0,animal_welfare,2.0,75.3,10.63,25.5,32.5,41.0,36.75,10.63,43.13,22.75,0.0,43.13,25.5,4.25,73.5,0.0,4.0,probably_yes,26.38,14.0,0.0,True
+P0364,treatment,33.0,woman,United States,omnivore,2.0,6.0,1.0,environmental,3.0,109.3,10.41,15.36,16.08,72.23,31.38,4.68,23.4,12.6,3.83,7.65,34.88,61.83,44.37,,3.0,probably_yes,26.05,13.0,1.0,True
+P0365,treatment,68.0,woman,United States,vegetarian,0.0,6.0,1.0,animal_welfare,2.0,57.3,0.0,0.0,5.95,10.63,10.2,17.0,29.6,38.1,21.95,21.53,18.9,0.85,12.6,0.0,2.0,unsure,13.38,14.0,0.0,True
+P0366,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0367,treatment,28.0,woman,Other,omnivore,0.5,1.0,1.0,health,2.0,27.8,,,,,,,,,,,,,,,,,,,,
+P0368,treatment,73.0,woman,United States,vegetarian,0.0,3.0,0.0,health,3.0,25.5,31.05,0.0,0.0,2.72,1.27,8.5,0.0,2.81,0.0,0.0,11.48,11.48,0.0,0.0,2.0,yes_definitely,4.95,14.0,0.0,True
+P0369,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0370,treatment,58.0,woman,Other,pescatarian,0.0,2.0,1.0,health,1.0,23.3,24.34,23.15,62.25,53.9,26.55,35.9,56.3,31.5,16.85,6.3,26.5,27.4,18.9,9.35,1.0,yes_definitely,29.94,14.0,0.0,True
+P0371,treatment,53.0,man,United States,pescatarian,0.25,0.5,0.25,environmental,2.0,12.33,12.07,11.56,4.61,16.43,24.69,0.85,3.4,0.85,0.85,18.36,26.48,12.33,12.41,0.85,2.0,yes_definitely,10.41,14.0,0.0,True
+P0372,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0373,treatment,28.0,woman,United States,omnivore,1.0,4.0,2.0,animal_welfare,2.0,72.6,27.55,0.0,6.38,6.38,8.5,18.9,0.0,6.38,6.38,6.38,37.92,25.2,0.0,0.0,2.0,probably_yes,10.71,14.0,0.0,True
+P0374,treatment,58.0,woman,Other,omnivore,0.0,1.0,1.0,health,3.0,14.8,91.03,53.5,13.84,51.54,0.0,47.2,94.63,35.4,0.0,0.0,0.0,0.0,0.0,0.0,2.0,yes_definitely,27.65,14.0,0.0,True
+P0375,treatment,43.0,woman,Other,omnivore,1.0,1.0,0.0,environmental,1.0,34.5,25.92,31.88,61.95,138.75,35.84,12.75,0.0,28.93,4.25,120.0,40.03,0.0,39.48,2.81,1.0,yes_definitely,38.76,14.0,0.0,True
+P0376,treatment,73.0,woman,United States,vegetarian,0.0,0.0,0.0,health,1.0,0.0,,4.08,0.0,13.4,0.0,0.0,,,,4.42,,,,5.67,,yes_definitely,3.94,7.0,7.0,False
+P0377,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0378,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0379,treatment,68.0,woman,United States,omnivore,0.0,1.0,0.0,health,1.0,8.5,31.05,86.4,24.89,18.0,0.0,0.0,105.0,32.5,0.0,6.04,26.04,6.04,6.04,6.04,2.0,yes_definitely,24.86,14.0,0.0,True
+P0380,treatment,21.0,woman,United States,omnivore,2.0,2.0,3.0,environmental,3.0,87.9,18.9,16.25,17.0,26.0,6.26,32.5,26.0,17.0,28.5,0.0,,,,,,,18.84,10.0,4.0,False
+P0381,control,68.0,woman,United States,omnivore,2.0,3.0,0.0,health,3.0,77.5,44.18,39.51,49.51,47.63,19.13,19.13,47.25,34.15,39.25,41.68,11.94,34.45,29.78,57.43,,unsure,36.78,14.0,0.0,True
+P0382,treatment,43.0,woman,United States,omnivore,2.5,0.0,0.0,curiosity,2.0,65.0,0.0,0.0,0.0,0.0,0.0,0.0,81.25,67.08,0.0,0.0,23.4,0.0,93.6,23.4,2.0,yes_definitely,20.62,14.0,0.0,True
+P0383,treatment,38.0,man,United States,vegetarian,0.0,2.0,0.5,animal_welfare,2.0,20.15,42.5,31.88,42.5,42.5,53.13,31.88,37.4,26.78,44.9,44.9,37.4,37.4,45.28,45.28,3.0,no,40.26,14.0,0.0,True
+P0384,treatment,33.0,woman,United States,omnivore,3.0,4.0,1.0,curiosity,3.0,118.3,60.15,26.91,35.05,55.9,203.51,177.31,26.49,39.13,4.5,69.61,36.37,119.81,73.22,79.81,4.0,yes_definitely,71.98,14.0,0.0,True
+P0385,treatment,33.0,woman,United States,omnivore,2.0,0.0,0.0,environmental,2.0,52.0,,,,,,,,,,,,,,,,,,,,
+P0386,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0387,control,53.0,woman,United States,pescatarian,1.0,0.5,1.0,animal_welfare,2.0,36.55,,,,,,,,,,,,,,,,,,,,
+P0388,treatment,43.0,woman,United States,omnivore,2.0,2.0,2.0,environmental,3.0,81.6,51.0,51.0,51.0,61.63,61.63,75.63,51.0,83.5,82.88,94.13,86.63,146.88,53.75,75.63,3.0,probably_yes,73.3,14.0,0.0,True
+P0389,treatment,58.0,woman,United States,omnivore,2.0,1.0,1.0,health,3.0,66.8,10.4,33.8,34.36,34.38,62.67,54.72,55.87,34.03,40.55,54.72,38.7,55.51,7.65,0.0,2.0,yes_definitely,36.95,14.0,0.0,True
+P0390,control,21.0,woman,United States,vegetarian,0.0,4.0,0.0,animal_welfare,1.0,34.0,,41.45,31.88,18.5,,46.14,21.25,31.88,42.67,32.05,,,,,,,33.23,8.0,6.0,False
+P0391,treatment,68.0,woman,United States,vegetarian,0.0,2.0,0.0,environmental,1.0,17.0,15.94,11.9,24.77,27.2,18.27,15.3,7.65,18.0,64.75,14.88,37.13,18.27,10.63,0.64,1.0,yes_definitely,20.38,14.0,0.0,True
+P0392,treatment,73.0,woman,United States,omnivore,2.0,1.0,0.0,health,2.0,60.5,34.58,33.67,32.28,35.09,40.37,44.05,5.01,11.48,78.6,45.89,15.07,,,,3.0,yes_definitely,34.19,11.0,3.0,False
+P0393,treatment,58.0,woman,United States,omnivore,1.0,1.0,2.0,health,3.0,47.1,29.08,25.0,61.63,54.13,122.5,114.38,25.0,84.55,10.63,25.0,7.88,97.88,7.88,51.49,3.0,probably_yes,51.21,14.0,0.0,True
+P0394,treatment,58.0,woman,United States,omnivore,2.5,1.0,1.0,health,2.0,79.8,47.84,32.09,49.1,47.56,8.19,17.54,16.69,8.19,20.8,46.8,0.0,19.5,28.98,8.19,2.0,yes_definitely,25.1,14.0,0.0,True
+P0395,control,63.0,man,United States,vegetarian,0.0,0.0,0.0,other,2.0,0.0,21.91,0.51,1.66,0.0,0.0,0.51,0.51,30.51,0.51,0.51,23.91,0.51,0.51,0.73,,yes_definitely,5.88,14.0,0.0,True
+P0396,treatment,53.0,woman,United States,omnivore,2.0,1.0,2.0,health,2.0,73.1,32.5,68.5,28.63,,51.63,35.63,45.1,12.6,6.5,6.5,21.5,0.0,6.3,12.8,2.0,probably_yes,25.24,13.0,1.0,True
+P0397,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0398,control,63.0,woman,United States,vegetarian,0.0,1.0,0.0,animal_welfare,2.0,8.5,16.4,1.02,55.88,8.5,17.85,17.42,8.5,4.68,8.5,4.25,5.44,4.68,7.23,0.0,,yes_definitely,11.45,14.0,0.0,True
+P0399,treatment,58.0,woman,United States,omnivore,3.0,3.0,2.0,curiosity,4.0,116.1,56.25,54.56,,,,,,,,,,,,,,,55.4,2.0,12.0,False
+P0400,treatment,43.0,man,Other,omnivore,0.5,1.0,1.0,health,1.0,27.8,,,,,,,,,,,,,,,,,,,,
+P0401,control,68.0,woman,United States,omnivore,1.0,0.0,1.0,environmental,2.0,32.3,15.0,26.45,32.5,32.5,32.5,28.85,28.85,57.25,16.25,23.97,32.5,37.35,29.25,32.5,,probably_yes,30.41,14.0,0.0,True
+P0402,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0403,treatment,33.0,man,Other,vegetarian,0.0,2.0,0.0,curiosity,5.0,17.0,21.25,21.25,,,,,,,,,,,,,,,21.25,2.0,12.0,False
+P0404,treatment,28.0,woman,United States,omnivore,1.0,1.0,2.0,environmental,3.0,47.1,38.94,5.74,200.77,261.27,46.63,59.83,3.44,46.72,20.76,9.39,32.29,47.27,119.74,35.48,3.0,yes_definitely,66.31,14.0,0.0,True
+P0405,treatment,68.0,woman,United States,pescatarian,0.0,3.0,1.0,curiosity,2.0,31.8,12.97,6.67,47.56,62.13,3.23,0.64,33.51,32.88,8.51,11.26,27.14,11.26,21.25,32.88,3.0,yes_definitely,22.28,14.0,0.0,True
+P0406,control,58.0,man,United States,omnivore,1.0,1.0,2.0,environmental,2.0,47.1,45.65,12.71,29.1,18.81,42.95,30.41,28.75,38.4,20.36,5.06,52.57,16.15,59.8,18.34,,yes_definitely,29.93,14.0,0.0,True
+P0407,treatment,63.0,woman,United States,omnivore,1.0,1.0,0.0,health,1.0,34.5,,,,,,,,,,,,,,,,,,,,
+P0408,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0409,treatment,43.0,prefer_not_to_say,United States,omnivore,1.0,5.0,1.0,curiosity,1.0,74.8,21.25,10.63,21.25,10.63,10.63,21.25,10.63,0.0,43.13,43.13,31.88,43.13,31.88,10.63,2.0,yes_definitely,22.14,14.0,0.0,True
+P0410,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0411,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0412,treatment,53.0,woman,United States,pescatarian,0.0,3.0,3.0,curiosity,3.0,44.4,22.44,20.74,13.32,13.32,28.62,13.32,13.32,13.32,13.32,28.63,16.3,13.32,31.32,17.87,4.0,probably_yes,18.51,14.0,0.0,True
+P0413,treatment,78.0,woman,United States,omnivore,1.0,1.0,0.0,curiosity,2.0,34.5,47.9,18.83,20.87,29.02,,48.18,31.7,57.33,29.61,26.64,,61.6,24.88,,2.0,probably_yes,36.05,11.0,3.0,False
+P0414,treatment,38.0,woman,United States,pescatarian,0.0,1.0,1.0,animal_welfare,1.0,14.8,22.48,22.69,18.9,15.09,29.23,25.56,9.75,10.55,53.66,0.0,2.13,20.59,5.1,8.24,2.0,yes_definitely,17.43,14.0,0.0,True
+P0415,control,68.0,woman,United States,pescatarian,0.5,2.0,0.5,health,1.0,33.15,70.85,58.38,45.67,26.98,62.53,185.18,92.92,13.18,7.57,63.91,57.48,27.45,78.81,29.35,,yes_definitely,58.59,14.0,0.0,True
+P0416,treatment,73.0,woman,United States,pescatarian,0.0,0.0,4.0,animal_welfare,1.0,25.2,18.0,0.0,0.0,0.0,7.88,0.0,25.2,0.0,0.0,18.0,0.0,18.0,0.0,0.0,2.0,yes_definitely,6.22,14.0,0.0,True
+P0417,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0418,control,33.0,man,United States,omnivore,3.0,2.0,3.0,environmental,3.0,113.9,,,,,,,,,,,,,,,,,,,,
+P0419,treatment,38.0,man,United States,omnivore,1.0,1.0,0.0,environmental,4.0,34.5,36.72,31.05,36.72,202.65,34.58,22.45,159.07,8.5,23.4,202.65,17.42,171.0,48.47,26.0,3.0,probably_yes,72.91,14.0,0.0,True
+P0420,treatment,68.0,woman,United States,omnivore,2.0,1.0,2.0,health,2.0,73.1,4.68,83.5,29.13,18.5,0.0,32.5,31.5,21.1,52.0,0.0,23.4,0.0,21.1,4.25,2.0,yes_definitely,22.98,14.0,0.0,True
+P0421,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0422,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0423,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0424,treatment,21.0,man,United States,omnivore,5.0,2.0,0.75,environmental,3.0,151.73,8.29,29.12,21.67,61.61,36.13,6.3,32.61,52.2,48.39,4.68,53.43,32.5,24.44,24.44,3.0,probably_yes,31.13,14.0,0.0,True
+P0425,control,33.0,man,United States,omnivore,2.0,2.0,2.0,animal_welfare,1.0,81.6,22.55,11.43,0.0,4.25,0.0,34.41,21.1,12.6,10.63,18.9,0.0,10.63,57.5,125.55,,yes_definitely,23.54,14.0,0.0,True
+P0426,treatment,63.0,woman,United States,omnivore,2.0,1.0,1.0,curiosity,2.0,66.8,17.42,17.42,23.4,0.0,138.32,0.0,6.3,0.0,0.0,0.0,0.0,0.0,16.25,0.0,2.0,yes_definitely,15.65,14.0,0.0,True
+P0427,treatment,73.0,woman,United States,pescatarian,0.0,3.0,1.0,animal_welfare,3.0,31.8,88.28,35.49,19.06,11.9,11.22,26.6,21.74,32.93,114.5,,7.44,0.64,5.31,15.86,,,30.07,13.0,1.0,True
+P0428,treatment,21.0,woman,United States,omnivore,2.0,2.0,1.0,health,2.0,75.3,73.6,25.0,,,,,,,,,,,,,,,49.3,2.0,12.0,False
+P0429,treatment,21.0,man,United States,vegetarian,1.0,2.0,1.0,health,5.0,49.3,,,,,,,,,,,,,,,,,,,,
+P0430,treatment,21.0,man,United States,omnivore,2.0,3.0,0.0,environmental,4.0,77.5,36.0,57.43,36.75,40.15,0.0,62.19,30.0,33.16,83.0,0.0,41.68,83.4,45.1,16.25,,,40.36,14.0,0.0,True
+P0431,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0432,treatment,63.0,woman,United States,vegetarian,0.0,2.0,0.0,environmental,2.0,17.0,10.63,10.63,8.5,8.5,0.0,0.0,0.0,8.5,8.5,8.5,8.5,8.5,8.5,8.5,1.0,yes_definitely,6.98,14.0,0.0,True
+P0433,treatment,68.0,woman,United States,omnivore,1.0,2.0,1.0,health,4.0,49.3,,,,,,,,,,,,,,,,,,,,
+P0434,treatment,33.0,woman,Other,omnivore,0.4,1.0,0.5,curiosity,2.0,22.05,,,,,,,,,,,,,,,,,,,,
+P0435,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0436,treatment,58.0,woman,United States,vegetarian,0.0,1.0,1.0,curiosity,2.0,14.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,yes_definitely,0.0,14.0,0.0,True
+P0437,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0438,control,68.0,woman,Other,omnivore,1.0,3.0,1.0,health,3.0,57.8,18.55,91.0,91.29,26.85,21.67,12.75,21.03,8.5,29.3,8.5,0.0,46.75,114.5,19.13,,yes_definitely,36.42,14.0,0.0,True
+P0439,control,68.0,woman,United States,omnivore,2.0,1.0,1.0,curiosity,1.0,66.8,53.61,61.0,95.68,79.31,6.52,48.2,56.48,103.44,74.04,0.85,120.0,157.34,95.08,9.35,,yes_definitely,68.64,14.0,0.0,True
+P0440,control,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0441,treatment,58.0,woman,United States,omnivore,1.0,0.0,1.0,health,1.0,32.3,26.0,26.0,28.13,26.0,0.0,0.0,0.0,0.0,26.0,26.0,69.25,26.0,60.5,26.0,2.0,yes_definitely,24.28,14.0,0.0,True
+P0442,treatment,58.0,woman,United States,omnivore,2.0,1.0,0.0,curiosity,1.0,60.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,yes_definitely,0.0,14.0,0.0,True
+P0443,treatment,21.0,man,United States,omnivore,1.0,1.0,0.0,environmental,3.0,34.5,4.25,8.5,10.13,31.9,4.25,23.4,0.0,34.03,8.08,22.25,18.0,0.0,4.25,21.83,3.0,probably_yes,13.63,14.0,0.0,True
+P0444,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0445,treatment,58.0,woman,United States,omnivore,0.0,1.0,1.0,health,2.0,14.8,4.25,0.0,0.0,42.79,1.1,66.29,0.0,23.4,49.4,35.31,1.4,5.23,1.4,13.4,3.0,yes_definitely,17.43,14.0,0.0,True
+P0446,treatment,21.0,woman,Other,omnivore,0.0,0.0,2.0,animal_welfare,3.0,12.6,0.0,0.0,17.28,0.0,14.04,7.02,0.0,12.6,12.6,9.1,30.68,46.02,28.6,12.6,4.0,probably_yes,13.61,14.0,0.0,True
+P0447,treatment,21.0,man,Other,vegetarian,0.0,3.0,0.0,curiosity,3.0,25.5,10.63,17.0,10.63,10.63,10.63,10.63,27.63,27.63,10.63,10.63,10.63,10.63,8.5,10.63,3.0,probably_yes,13.36,14.0,0.0,True
+P0448,treatment,33.0,woman,United States,omnivore,1.0,1.0,1.0,environmental,2.0,40.8,23.53,44.63,10.85,,,,,,,,,,,,,,26.33,3.0,11.0,False
+P0449,treatment,21.0,man,United States,omnivore,0.5,2.0,1.0,curiosity,2.0,36.3,18.06,16.85,4.25,43.05,8.5,18.9,24.75,6.29,13.94,8.5,17.0,17.0,25.35,13.94,3.0,unsure,16.88,14.0,0.0,True
+P0450,control,68.0,man,United States,omnivore,0.0,1.0,0.0,environmental,2.0,8.5,43.28,43.13,43.13,,,,,,,,,,,,,,43.18,3.0,11.0,False
+P0451,control,33.0,prefer_not_to_say,United States,omnivore,2.0,1.0,2.0,other,5.0,73.1,77.1,9.77,46.88,75.0,177.23,198.48,254.05,180.0,48.97,99.52,156.03,143.66,219.66,73.47,,unsure,125.7,14.0,0.0,True
+P0452,treatment,48.0,man,Other,omnivore,0.0,2.0,2.0,environmental,1.0,29.6,,,,,,,,,,,,,,,,,,,,
+P0453,treatment,48.0,woman,United States,vegetarian,0.0,2.5,0.0,animal_welfare,2.0,21.25,6.38,8.63,4.25,6.38,4.25,3.99,11.31,8.5,6.04,4.25,4.25,0.0,7.06,6.04,2.0,probably_yes,5.81,14.0,0.0,True
+P0454,treatment,48.0,woman,United States,omnivore,1.0,1.0,1.0,health,3.0,40.8,4.08,31.88,68.88,22.74,21.25,12.33,0.0,50.38,10.63,10.63,32.5,18.5,62.0,35.63,2.0,yes_definitely,27.24,14.0,0.0,True
+P0455,control,68.0,woman,United States,vegetarian,0.0,0.0,0.0,animal_welfare,3.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,13.4,13.4,,yes_definitely,1.91,14.0,0.0,True
+P0456,treatment,48.0,woman,United States,vegetarian,0.0,2.0,1.0,health,3.0,23.3,0.0,0.0,0.0,0.0,4.68,0.0,0.0,0.0,0.0,0.51,0.0,5.65,0.0,4.68,2.0,probably_yes,1.11,14.0,0.0,True
+P0457,treatment,63.0,woman,United States,omnivore,1.0,1.0,1.0,health,3.0,40.8,34.16,29.23,38.92,134.23,39.63,95.25,39.07,30.49,47.19,8.43,37.65,34.42,37.52,39.22,3.0,probably_yes,46.1,14.0,0.0,True
+P0458,treatment,28.0,woman,United States,omnivore,3.0,1.0,0.0,health,4.0,86.5,70.2,24.46,81.25,32.5,,,,,,,,,,,,,52.1,4.0,10.0,False
+P0459,treatment,58.0,man,United States,omnivore,0.5,0.0,0.0,health,4.0,13.0,,,,,,,,,,,,,,,,,,0.0,14.0,False
+P0460,treatment,43.0,woman,United States,omnivore,1.0,0.5,0.5,environmental,3.0,33.4,52.0,26.0,0.64,20.0,0.0,0.0,0.0,27.49,46.0,46.0,0.0,26.0,27.49,0.0,3.0,yes_definitely,19.4,14.0,0.0,True
+P0461,treatment,,,Other,,,,,,,,13.36,4.25,0.0,4.25,,,,,,,,,,,,,5.46,4.0,10.0,False
+P0462,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0463,treatment,33.0,woman,United States,vegetarian,0.0,2.0,0.5,environmental,2.0,20.15,5.72,1.4,0.0,10.84,4.21,11.35,0.0,0.0,4.72,0.13,10.84,7.14,1.49,2.81,3.0,yes_definitely,4.33,14.0,0.0,True
+P0464,treatment,78.0,woman,Other,omnivore,1.0,2.0,0.0,animal_welfare,3.0,43.0,,40.46,39.55,39.82,26.5,42.26,26.5,98.5,24.75,22.8,59.02,60.85,31.9,16.15,2.0,yes_definitely,40.7,13.0,1.0,True
+P0465,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0466,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0467,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0468,treatment,53.0,woman,United States,omnivore,1.0,1.0,0.0,health,2.0,34.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,51.45,0.0,0.0,0.0,0.0,2.0,yes_definitely,3.68,14.0,0.0,True
+P0469,treatment,78.0,man,United States,vegetarian,0.0,0.0,0.0,other,1.0,0.0,,,,,,,,,,,,,,,,,,,,
+P0470,treatment,73.0,woman,United States,omnivore,1.0,2.0,2.0,health,2.0,55.6,0.0,0.0,15.31,26.6,33.4,33.4,26.6,33.4,34.58,26.0,12.6,0.0,0.0,0.0,4.0,yes_definitely,17.28,14.0,0.0,True
+P0471,treatment,68.0,woman,Other,omnivore,1.0,1.0,1.0,environmental,5.0,40.8,6.3,0.0,0.0,4.39,2.59,2.2,19.74,16.15,0.0,0.0,3.06,0.0,1.17,10.98,,probably_yes,4.76,14.0,0.0,True
+P0472,treatment,63.0,woman,United States,omnivore,1.0,1.0,0.25,environmental,1.0,36.08,20.8,67.0,22.93,6.23,23.2,26.6,26.6,32.6,41.05,28.58,87.23,10.58,12.68,40.28,2.0,probably_yes,31.88,14.0,0.0,True
+P0473,treatment,28.0,woman,United States,omnivore,1.0,0.0,1.0,animal_welfare,3.0,32.3,2.2,3.5,0.0,2.97,0.0,0.0,1.49,2.59,1.49,0.0,0.0,0.0,0.0,1.1,2.0,yes_definitely,1.1,14.0,0.0,True
+P0474,treatment,58.0,woman,United States,vegetarian,0.0,4.0,0.0,health,3.0,34.0,21.89,31.88,12.75,17.85,17.0,13.6,,,,,23.38,,,,3.0,probably_yes,19.76,7.0,7.0,False
+P0475,treatment,21.0,man,United States,omnivore,3.0,1.0,3.0,curiosity,5.0,105.4,32.5,12.6,92.04,8.58,138.58,207.74,86.58,81.76,0.0,134.6,,27.4,,138.58,4.0,probably_not,80.08,12.0,2.0,True
+P0476,treatment,38.0,woman,United States,omnivore,0.5,0.5,0.0,curiosity,3.0,17.25,0.0,8.2,0.0,1.49,2.72,2.89,0.0,0.0,0.0,26.0,0.0,0.0,0.0,8.5,2.0,yes_definitely,3.56,14.0,0.0,True
+P0477,treatment,21.0,man,United States,vegetarian,0.0,0.0,0.0,animal_welfare,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,yes_definitely,0.0,14.0,0.0,True
+P0478,treatment,68.0,man,United States,omnivore,1.0,1.0,0.0,health,2.0,34.5,0.0,15.0,31.9,10.63,31.43,10.63,,,,,,,,,,,16.6,6.0,8.0,False
+P0479,treatment,78.0,woman,United States,vegetarian,0.0,1.0,2.0,other,1.0,21.1,0.43,13.03,12.6,6.7,0.0,13.0,6.3,0.0,12.6,,,,,,1.0,probably_not,7.18,9.0,5.0,False
+P0480,treatment,63.0,man,United States,vegetarian,0.0,2.0,0.0,health,5.0,17.0,34.0,29.92,39.86,30.08,22.36,21.58,10.63,28.28,38.42,13.09,13.09,4.21,30.08,20.33,1.0,yes_definitely,23.99,14.0,0.0,True
+P0481,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0482,control,48.0,man,Other,vegetarian,0.0,0.25,0.25,environmental,2.0,3.7,0.0,,,,,,,,,,,,,,,,0.0,1.0,13.0,False
+P0483,treatment,43.0,man,Other,omnivore,4.0,4.0,1.0,environmental,2.0,144.3,71.49,157.83,47.89,61.82,72.92,31.7,51.24,44.05,51.58,22.15,227.89,53.02,210.13,15.26,2.0,yes_definitely,79.93,14.0,0.0,True
+P0484,control,68.0,man,United States,omnivore,1.0,0.0,2.0,health,2.0,38.6,44.55,46.5,37.75,48.0,106.1,63.11,127.4,62.34,46.43,33.1,70.94,101.91,58.32,36.9,,yes_definitely,63.1,14.0,0.0,True
+P0485,control,48.0,woman,Other,omnivore,1.0,2.0,0.0,health,3.0,43.0,12.75,54.28,72.3,26.75,47.9,19.1,8.75,41.6,23.59,14.02,36.1,35.3,26.75,7.65,,yes_definitely,30.49,14.0,0.0,True
+P0486,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0487,treatment,78.0,woman,United States,pescatarian,0.0,2.0,0.0,health,1.0,17.0,15.0,4.25,15.0,15.0,19.25,15.0,19.25,15.0,15.0,19.25,15.0,19.25,16.41,9.39,1.0,no,15.15,14.0,0.0,True
+P0488,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0489,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0490,treatment,28.0,man,United States,omnivore,1.0,0.5,0.2,animal_welfare,2.0,31.51,0.43,0.82,18.94,0.0,0.51,67.36,1.33,12.87,5.67,0.51,0.0,10.84,3.15,0.0,3.0,probably_yes,8.74,14.0,0.0,True
+P0491,treatment,38.0,prefer_not_to_say,Other,omnivore,1.0,3.0,1.0,environmental,2.0,57.8,43.5,18.5,43.5,18.5,43.5,43.5,43.5,18.5,18.5,18.5,18.5,43.5,18.5,10.63,1.0,no,28.65,14.0,0.0,True
+P0492,control,78.0,man,United States,omnivore,1.0,1.0,1.0,health,3.0,40.8,7.9,24.89,43.23,48.75,8.33,35.09,18.27,42.32,7.79,35.51,72.07,29.14,11.73,61.22,,probably_yes,31.87,14.0,0.0,True
+P0493,treatment,73.0,woman,United States,vegetarian,2.0,3.0,1.0,curiosity,3.0,83.8,1.4,8.92,0.0,2.96,4.25,6.3,0.0,0.0,6.84,0.0,2.81,0.0,45.0,0.0,2.0,probably_yes,5.61,14.0,0.0,True
+P0494,treatment,43.0,woman,United States,omnivore,1.0,1.0,0.0,health,4.0,34.5,25.2,94.07,23.4,70.06,33.37,26.14,79.91,18.43,18.43,0.43,59.75,29.75,13.51,94.35,4.0,yes_definitely,41.91,14.0,0.0,True
+P0495,treatment,63.0,woman,Other,omnivore,1.0,1.0,1.0,other,3.0,40.8,0.0,12.16,0.0,10.12,0.0,53.5,23.6,23.6,0.0,43.28,3.06,32.7,26.53,38.48,2.0,yes_definitely,19.07,14.0,0.0,True
+P0496,treatment,21.0,man,United States,omnivore,1.5,0.0,0.0,environmental,1.0,39.0,63.75,42.25,34.19,5.1,11.09,0.0,26.0,34.5,8.5,0.0,39.85,5.29,39.35,0.0,2.0,unsure,22.13,14.0,0.0,True
+P0497,treatment,43.0,man,United States,omnivore,1.0,1.0,1.0,other,1.0,40.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.0,yes_definitely,0.0,14.0,0.0,True
+P0498,treatment,21.0,woman,United States,omnivore,3.0,2.0,0.0,environmental,1.0,95.0,6.5,23.5,31.98,17.25,35.09,34.42,64.04,11.94,118.0,113.82,325.0,25.5,128.5,40.8,2.0,probably_yes,69.74,14.0,0.0,True
+P0499,control,21.0,man,United States,omnivore,2.0,3.0,0.0,environmental,3.0,77.5,10.75,0.0,2.59,2.59,6.3,3.47,0.19,26.87,2.59,1.49,0.0,75.09,8.83,24.5,,probably_yes,11.8,14.0,0.0,True
+P0500,treatment,78.0,woman,United States,pescatarian,0.0,3.0,1.0,curiosity,2.0,31.8,,,,,,,,,,,,,,,,,,,,
+P0501,treatment,73.0,man,Other,omnivore,0.05,2.0,0.5,environmental,3.0,21.45,0.0,1.4,5.95,0.0,3.06,2.64,0.64,5.31,1.4,0.0,38.75,0.85,0.0,,4.0,yes_definitely,4.62,13.0,1.0,True
+P0502,control,63.0,woman,United States,omnivore,1.0,1.0,1.0,animal_welfare,3.0,40.8,35.63,10.63,7.88,43.13,75.63,51.0,32.5,43.13,25.0,0.0,32.5,94.25,32.5,32.5,,yes_definitely,36.88,14.0,0.0,True
+P0503,treatment,53.0,woman,United States,omnivore,3.0,0.0,0.0,health,3.0,78.0,,,,,,,,,,,,,,,,,,,,
+P0504,treatment,73.0,woman,United States,omnivore,1.0,3.0,1.0,environmental,2.0,57.8,44.5,32.5,86.25,43.13,71.42,40.36,73.63,8.59,14.8,17.04,16.95,29.66,92.59,26.53,3.0,yes_definitely,42.71,14.0,0.0,True
+P0505,treatment,58.0,woman,United States,vegetarian,0.0,3.0,1.0,curiosity,2.0,31.8,16.49,14.32,4.29,2.89,15.09,26.06,4.25,11.09,16.15,10.46,7.86,5.74,18.27,17.26,2.0,yes_definitely,12.16,14.0,0.0,True
+P0506,control,43.0,woman,United States,omnivore,2.0,1.0,2.0,environmental,3.0,73.1,0.0,14.3,,0.0,0.0,0.0,33.28,4.68,47.8,4.25,23.4,0.0,4.68,14.3,,yes_definitely,11.28,13.0,1.0,True
+P0507,treatment,58.0,man,United States,vegetarian,0.0,1.0,0.0,health,1.0,8.5,,,,,,,,,,,,,,,,,,0.0,14.0,False
+P0508,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0509,treatment,48.0,woman,Other,omnivore,1.0,1.0,1.0,health,3.0,40.8,82.99,11.69,1.06,1.06,34.28,34.28,37.79,14.79,14.79,3.49,8.29,34.28,4.59,1.79,3.0,probably_yes,20.37,14.0,0.0,True
+P0510,treatment,53.0,woman,United States,omnivore,0.0,1.0,1.0,animal_welfare,2.0,14.8,0.0,20.0,0.0,17.35,8.5,0.0,,,,,,,,,,,7.64,6.0,8.0,False
+P0511,treatment,53.0,woman,United States,omnivore,3.0,1.0,0.0,health,2.0,86.5,77.15,41.79,5.29,60.38,20.31,,,,,,,,,,,,40.98,5.0,9.0,False
+P0512,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0513,treatment,21.0,woman,Other,omnivore,2.0,3.0,1.0,environmental,4.0,83.8,32.56,3.65,20.55,10.79,56.55,33.25,0.0,24.41,81.93,4.68,20.5,97.5,51.4,16.25,4.0,yes_definitely,32.43,14.0,0.0,True
+P0514,treatment,68.0,woman,United States,omnivore,1.0,1.0,1.0,curiosity,1.0,40.8,14.01,39.75,5.31,39.2,21.38,39.75,12.6,49.35,6.3,44.37,0.0,0.0,0.0,124.3,3.0,probably_yes,28.31,14.0,0.0,True
+P0515,treatment,28.0,woman,Other,pescatarian,0.0,1.0,1.0,animal_welfare,2.0,14.8,10.55,40.5,16.85,46.8,18.63,36.08,6.3,20.58,48.78,4.25,0.0,12.6,,,,,21.83,12.0,2.0,True
+P0516,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0517,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0518,treatment,63.0,woman,United States,omnivore,1.0,3.0,1.0,environmental,3.0,57.8,16.15,17.26,0.0,24.44,4.68,51.0,45.05,18.27,21.25,27.49,24.08,36.07,53.92,35.97,3.0,yes_definitely,26.83,14.0,0.0,True
+P0519,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0520,treatment,38.0,woman,United States,omnivore,1.0,1.0,0.0,animal_welfare,1.0,34.5,0.0,10.63,10.63,34.03,10.63,6.38,23.4,23.4,23.4,18.27,34.03,24.04,,29.71,3.0,probably_yes,19.12,13.0,1.0,True
+P0521,treatment,58.0,woman,Other,pescatarian,0.0,1.0,1.0,environmental,1.0,14.8,,,,,,,,,,,,,,,,,,,,
+P0522,treatment,33.0,woman,Other,omnivore,1.0,1.0,1.0,curiosity,2.0,40.8,46.25,18.5,68.13,25.0,53.39,81.28,43.13,45.1,75.63,46.25,32.5,100.63,65.0,65.0,4.0,probably_yes,54.7,14.0,0.0,True
+P0523,treatment,21.0,woman,Other,vegetarian,0.0,2.0,0.0,curiosity,2.0,17.0,0.81,5.06,11.43,12.71,5.06,5.06,6.76,0.81,11.43,8.46,12.71,17.81,13.35,8.46,3.0,probably_yes,8.56,14.0,0.0,True
+P0524,treatment,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0525,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0526,treatment,58.0,woman,United States,omnivore,1.0,1.0,0.0,animal_welfare,1.0,34.5,28.92,9.95,9.95,23.46,28.92,13.71,13.71,13.71,381.78,9.35,26.31,33.65,34.6,18.27,1.0,yes_definitely,46.16,14.0,0.0,True
+P0527,treatment,33.0,woman,Other,vegetarian,0.0,1.0,0.0,health,2.0,8.5,,,,,,,,,,,,,,,,,,,,
+P0528,control,48.0,woman,Other,omnivore,0.3,0.0,1.0,environmental,3.0,14.1,,23.4,23.4,1.49,12.6,6.3,1.49,29.07,28.63,56.59,,72.0,23.67,70.2,,,29.07,12.0,2.0,True
+P0529,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0530,treatment,48.0,woman,United States,omnivore,1.0,1.0,1.0,health,3.0,40.8,70.7,16.15,0.0,4.46,88.9,53.51,47.87,36.75,36.07,37.31,18.7,11.7,52.6,4.46,4.0,probably_yes,34.23,14.0,0.0,True
+P0531,treatment,28.0,woman,Other,omnivore,1.0,2.0,3.0,health,3.0,61.9,,,,,,,,,,,,,,,,,,,,
+P0532,treatment,43.0,woman,Other,omnivore,1.0,0.5,0.5,animal_welfare,4.0,33.4,,,,,,,,,,,,,,,,,,,,
+P0533,treatment,63.0,man,Other,pescatarian,0.5,0.25,0.0,health,1.0,15.13,12.6,47.2,0.0,0.0,27.68,180.6,7.32,46.2,0.0,16.42,46.2,22.72,33.0,0.0,2.0,yes_definitely,31.42,14.0,0.0,True
+P0534,treatment,33.0,woman,United States,omnivore,3.0,3.0,0.0,curiosity,4.0,103.5,43.13,32.5,32.5,47.8,19.3,32.5,23.63,22.9,75.63,43.13,0.0,33.01,32.5,32.5,3.0,probably_not,33.64,14.0,0.0,True
+P0535,control,68.0,woman,Other,omnivore,0.0,1.0,1.0,environmental,2.0,14.8,43.13,51.0,21.25,10.63,6.16,48.06,19.73,8.2,53.49,53.0,17.18,30.54,33.64,47.9,,probably_yes,31.71,14.0,0.0,True
+P0536,treatment,33.0,man,United States,omnivore,1.0,3.0,0.0,animal_welfare,3.0,51.5,28.48,2.55,18.74,13.18,25.29,14.66,13.18,27.55,1.06,14.66,13.6,13.18,40.47,23.8,2.0,probably_yes,17.88,14.0,0.0,True
+P0537,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,
+P0538,treatment,28.0,write_in,United States,omnivore,1.0,1.0,1.0,health,1.0,40.8,31.9,42.06,123.0,18.42,,21.54,,,128.8,31.05,,,55.3,,3.0,yes_definitely,56.51,8.0,6.0,False
+P0539,treatment,33.0,man,Other,omnivore,2.0,0.0,3.0,environmental,5.0,70.9,12.6,0.0,0.0,48.75,0.0,12.6,0.0,0.0,48.75,0.0,0.0,,16.25,32.5,4.0,probably_yes,13.19,13.0,1.0,True
+P0540,control,58.0,woman,United States,omnivore,0.33,3.0,0.33,health,3.0,36.16,33.14,15.13,35.42,22.82,83.55,42.04,12.9,17.42,13.93,16.58,8.63,14.11,22.74,6.21,,yes_definitely,24.62,14.0,0.0,True
+P0541,,,,Other,,,,,,,,,,,,,,,,,,,,,,,,,,,

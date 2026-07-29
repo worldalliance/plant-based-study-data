@@ -1,0 +1,1628 @@
+{
+ "q6::P0003": [
+  "protein_nutrition",
+  "availability_subs"
+ ],
+ "q6::P0004": [],
+ "q6::P0007": [],
+ "q6::P0009": [
+  "availability_subs",
+  "cravings_taste"
+ ],
+ "q6::P0010": [
+  "cravings_taste"
+ ],
+ "q6::P0012": [
+  "habit_forgetting"
+ ],
+ "q6::P0013": [
+  "habit_forgetting"
+ ],
+ "q6::P0017": [
+  "protein_nutrition"
+ ],
+ "q6::P0019": [
+  "social_eating_out",
+  "availability_subs"
+ ],
+ "q6::P0021": [
+  "social_eating_out"
+ ],
+ "q6::P0022": [],
+ "q6::P0023": [
+  "cravings_taste"
+ ],
+ "q6::P0024": [
+  "protein_nutrition"
+ ],
+ "q6::P0025": [],
+ "q6::P0026": [
+  "travel",
+  "social_eating_out",
+  "availability_subs"
+ ],
+ "q6::P0027": [
+  "cooking_effort"
+ ],
+ "q6::P0032": [
+  "cooking_effort",
+  "social_eating_out",
+  "cravings_taste"
+ ],
+ "q6::P0033": [
+  "habit_forgetting"
+ ],
+ "q6::P0035": [
+  "social_eating_out"
+ ],
+ "q6::P0036": [
+  "cravings_taste"
+ ],
+ "q6::P0037": [
+  "protein_nutrition"
+ ],
+ "q6::P0039": [
+  "cooking_effort"
+ ],
+ "q6::P0040": [
+  "protein_nutrition"
+ ],
+ "q6::P0041": [
+  "social_eating_out",
+  "cost",
+  "protein_nutrition"
+ ],
+ "q6::P0042": [
+  "cravings_taste"
+ ],
+ "q6::P0046": [
+  "protein_nutrition"
+ ],
+ "q6::P0048": [
+  "protein_nutrition",
+  "availability_subs"
+ ],
+ "q6::P0049": [
+  "cravings_taste"
+ ],
+ "q6::P0051": [
+  "cooking_effort",
+  "availability_subs"
+ ],
+ "q6::P0052": [
+  "cravings_taste",
+  "availability_subs"
+ ],
+ "q6::P0053": [
+  "cravings_taste"
+ ],
+ "q6::P0055": [
+  "availability_subs",
+  "cravings_taste"
+ ],
+ "q6::P0058": [
+  "hidden_ingredients",
+  "cravings_taste"
+ ],
+ "q6::P0059": [],
+ "q6::P0062": [
+  "cravings_taste"
+ ],
+ "q6::P0067": [
+  "availability_subs",
+  "travel"
+ ],
+ "q6::P0069": [
+  "cravings_taste"
+ ],
+ "q6::P0070": [
+  "protein_nutrition"
+ ],
+ "q6::P0072": [
+  "cooking_effort",
+  "habit_forgetting"
+ ],
+ "q6::P0073": [
+  "availability_subs"
+ ],
+ "q6::P0074": [
+  "cravings_taste"
+ ],
+ "q6::P0075": [
+  "social_eating_out",
+  "waste_preexisting"
+ ],
+ "q6::P0077": [
+  "availability_subs"
+ ],
+ "q6::P0078": [
+  "travel",
+  "social_eating_out"
+ ],
+ "q6::P0079": [
+  "social_eating_out",
+  "hidden_ingredients",
+  "availability_subs"
+ ],
+ "q6::P0089": [
+  "cravings_taste"
+ ],
+ "q6::P0092": [
+  "waste_preexisting",
+  "protein_nutrition"
+ ],
+ "q6::P0094": [],
+ "q6::P0095": [
+  "availability_subs"
+ ],
+ "q6::P0096": [
+  "protein_nutrition"
+ ],
+ "q6::P0102": [
+  "cravings_taste"
+ ],
+ "q6::P0105": [
+  "protein_nutrition"
+ ],
+ "q6::P0107": [
+  "family_household"
+ ],
+ "q6::P0108": [
+  "protein_nutrition",
+  "availability_subs"
+ ],
+ "q6::P0111": [
+  "cooking_effort"
+ ],
+ "q6::P0114": [
+  "waste_preexisting"
+ ],
+ "q6::P0116": [
+  "travel"
+ ],
+ "q6::P0120": [
+  "family_household",
+  "cooking_effort"
+ ],
+ "q6::P0123": [],
+ "q6::P0124": [
+  "cooking_effort",
+  "family_household",
+  "cravings_taste"
+ ],
+ "q6::P0126": [
+  "family_household",
+  "cooking_effort"
+ ],
+ "q6::P0129": [
+  "social_eating_out"
+ ],
+ "q6::P0132": [
+  "social_eating_out"
+ ],
+ "q6::P0133": [
+  "family_household"
+ ],
+ "q6::P0136": [],
+ "q6::P0138": [
+  "habit_forgetting",
+  "social_eating_out"
+ ],
+ "q6::P0139": [
+  "social_eating_out"
+ ],
+ "q6::P0140": [
+  "cooking_effort"
+ ],
+ "q6::P0141": [
+  "cravings_taste"
+ ],
+ "q6::P0143": [
+  "family_household"
+ ],
+ "q6::P0144": [
+  "availability_subs"
+ ],
+ "q6::P0145": [
+  "protein_nutrition",
+  "family_household",
+  "social_eating_out"
+ ],
+ "q6::P0146": [],
+ "q6::P0148": [
+  "social_eating_out"
+ ],
+ "q6::P0153": [
+  "protein_nutrition",
+  "cravings_taste"
+ ],
+ "q6::P0154": [
+  "protein_nutrition"
+ ],
+ "q6::P0155": [
+  "travel",
+  "availability_subs"
+ ],
+ "q6::P0156": [
+  "cravings_taste",
+  "protein_nutrition"
+ ],
+ "q6::P0157": [
+  "habit_forgetting"
+ ],
+ "q6::P0158": [
+  "availability_subs"
+ ],
+ "q6::P0159": [
+  "cravings_taste",
+  "availability_subs"
+ ],
+ "q6::P0163": [
+  "family_household",
+  "social_eating_out"
+ ],
+ "q6::P0164": [
+  "availability_subs"
+ ],
+ "q6::P0165": [
+  "availability_subs"
+ ],
+ "q6::P0166": [
+  "social_eating_out"
+ ],
+ "q6::P0167": [
+  "social_eating_out",
+  "travel"
+ ],
+ "q6::P0169": [
+  "cravings_taste"
+ ],
+ "q6::P0170": [
+  "protein_nutrition"
+ ],
+ "q6::P0171": [
+  "family_household",
+  "cooking_effort"
+ ],
+ "q6::P0172": [
+  "protein_nutrition"
+ ],
+ "q6::P0174": [
+  "family_household",
+  "cooking_effort"
+ ],
+ "q6::P0175": [
+  "protein_nutrition"
+ ],
+ "q6::P0177": [
+  "social_eating_out"
+ ],
+ "q6::P0178": [
+  "cravings_taste",
+  "protein_nutrition"
+ ],
+ "q6::P0180": [
+  "cooking_effort"
+ ],
+ "q6::P0188": [
+  "cravings_taste"
+ ],
+ "q6::P0193": [
+  "cooking_effort"
+ ],
+ "q6::P0196": [
+  "protein_nutrition"
+ ],
+ "q6::P0200": [
+  "availability_subs",
+  "cravings_taste"
+ ],
+ "q6::P0201": [
+  "hidden_ingredients",
+  "family_household"
+ ],
+ "q6::P0203": [
+  "cravings_taste",
+  "protein_nutrition"
+ ],
+ "q6::P0206": [
+  "hidden_ingredients",
+  "habit_forgetting"
+ ],
+ "q6::P0209": [
+  "social_eating_out"
+ ],
+ "q6::P0214": [],
+ "q6::P0215": [
+  "cravings_taste"
+ ],
+ "q6::P0221": [
+  "cooking_effort",
+  "habit_forgetting"
+ ],
+ "q6::P0225": [
+  "social_eating_out",
+  "availability_subs"
+ ],
+ "q6::P0227": [
+  "habit_forgetting"
+ ],
+ "q6::P0231": [],
+ "q6::P0232": [
+  "social_eating_out"
+ ],
+ "q6::P0233": [
+  "cravings_taste"
+ ],
+ "q6::P0235": [
+  "protein_nutrition"
+ ],
+ "q6::P0236": [
+  "cravings_taste"
+ ],
+ "q6::P0237": [
+  "social_eating_out",
+  "family_household",
+  "cooking_effort"
+ ],
+ "q6::P0239": [
+  "family_household"
+ ],
+ "q6::P0241": [
+  "cravings_taste",
+  "protein_nutrition"
+ ],
+ "q6::P0246": [
+  "cravings_taste"
+ ],
+ "q6::P0247": [],
+ "q6::P0248": [
+  "protein_nutrition"
+ ],
+ "q6::P0249": [
+  "habit_forgetting",
+  "hidden_ingredients"
+ ],
+ "q6::P0254": [],
+ "q6::P0256": [
+  "family_household",
+  "cravings_taste"
+ ],
+ "q6::P0258": [
+  "family_household",
+  "social_eating_out",
+  "availability_subs"
+ ],
+ "q6::P0259": [
+  "cooking_effort",
+  "protein_nutrition"
+ ],
+ "q6::P0264": [
+  "family_household"
+ ],
+ "q6::P0265": [
+  "habit_forgetting"
+ ],
+ "q6::P0267": [
+  "cravings_taste",
+  "family_household",
+  "cooking_effort"
+ ],
+ "q6::P0268": [],
+ "q6::P0269": [
+  "protein_nutrition",
+  "availability_subs"
+ ],
+ "q6::P0273": [
+  "cravings_taste"
+ ],
+ "q6::P0277": [
+  "habit_forgetting"
+ ],
+ "q6::P0278": [
+  "cravings_taste",
+  "protein_nutrition"
+ ],
+ "q6::P0282": [
+  "social_eating_out"
+ ],
+ "q6::P0283": [
+  "cravings_taste"
+ ],
+ "q6::P0284": [
+  "social_eating_out"
+ ],
+ "q6::P0285": [
+  "cravings_taste",
+  "cost"
+ ],
+ "q6::P0286": [
+  "family_household"
+ ],
+ "q6::P0287": [
+  "social_eating_out"
+ ],
+ "q6::P0288": [
+  "family_household",
+  "waste_preexisting"
+ ],
+ "q6::P0289": [
+  "cravings_taste"
+ ],
+ "q6::P0291": [
+  "habit_forgetting"
+ ],
+ "q6::P0294": [
+  "family_household"
+ ],
+ "q6::P0296": [
+  "family_household",
+  "cooking_effort"
+ ],
+ "q6::P0301": [],
+ "q6::P0302": [
+  "protein_nutrition",
+  "availability_subs"
+ ],
+ "q6::P0305": [
+  "family_household"
+ ],
+ "q6::P0309": [
+  "cooking_effort",
+  "family_household"
+ ],
+ "q6::P0313": [
+  "family_household"
+ ],
+ "q6::P0314": [
+  "protein_nutrition"
+ ],
+ "q6::P0317": [
+  "protein_nutrition",
+  "availability_subs",
+  "social_eating_out"
+ ],
+ "q6::P0320": [
+  "availability_subs",
+  "cooking_effort"
+ ],
+ "q6::P0323": [
+  "protein_nutrition"
+ ],
+ "q6::P0325": [
+  "social_eating_out",
+  "availability_subs",
+  "protein_nutrition"
+ ],
+ "q6::P0326": [],
+ "q6::P0328": [
+  "cravings_taste"
+ ],
+ "q6::P0333": [
+  "cooking_effort",
+  "cravings_taste"
+ ],
+ "q6::P0334": [
+  "social_eating_out",
+  "protein_nutrition"
+ ],
+ "q6::P0335": [
+  "family_household",
+  "cooking_effort",
+  "cost",
+  "availability_subs"
+ ],
+ "q6::P0337": [
+  "cravings_taste",
+  "availability_subs"
+ ],
+ "q6::P0338": [
+  "protein_nutrition",
+  "cravings_taste"
+ ],
+ "q6::P0347": [
+  "protein_nutrition"
+ ],
+ "q6::P0348": [
+  "family_household"
+ ],
+ "q6::P0350": [
+  "protein_nutrition",
+  "availability_subs"
+ ],
+ "q6::P0353": [],
+ "q6::P0361": [
+  "availability_subs",
+  "cooking_effort"
+ ],
+ "q6::P0363": [
+  "habit_forgetting"
+ ],
+ "q6::P0364": [
+  "waste_preexisting"
+ ],
+ "q6::P0365": [
+  "cravings_taste"
+ ],
+ "q6::P0368": [
+  "cravings_taste",
+  "cooking_effort"
+ ],
+ "q6::P0371": [
+  "family_household",
+  "availability_subs"
+ ],
+ "q6::P0373": [
+  "protein_nutrition"
+ ],
+ "q6::P0374": [
+  "family_household",
+  "travel",
+  "availability_subs"
+ ],
+ "q6::P0379": [
+  "social_eating_out",
+  "protein_nutrition",
+  "availability_subs"
+ ],
+ "q6::P0381": [
+  "protein_nutrition"
+ ],
+ "q6::P0382": [
+  "cooking_effort",
+  "protein_nutrition",
+  "family_household",
+  "cravings_taste"
+ ],
+ "q6::P0383": [
+  "protein_nutrition"
+ ],
+ "q6::P0384": [
+  "cravings_taste",
+  "hidden_ingredients"
+ ],
+ "q6::P0388": [
+  "availability_subs",
+  "protein_nutrition"
+ ],
+ "q6::P0389": [
+  "family_household"
+ ],
+ "q6::P0391": [
+  "cravings_taste"
+ ],
+ "q6::P0393": [
+  "social_eating_out",
+  "family_household"
+ ],
+ "q6::P0394": [
+  "protein_nutrition"
+ ],
+ "q6::P0395": [
+  "availability_subs",
+  "habit_forgetting"
+ ],
+ "q6::P0396": [
+  "protein_nutrition"
+ ],
+ "q6::P0398": [
+  "cravings_taste"
+ ],
+ "q6::P0401": [
+  "protein_nutrition"
+ ],
+ "q6::P0404": [
+  "cooking_effort",
+  "protein_nutrition"
+ ],
+ "q6::P0405": [
+  "habit_forgetting"
+ ],
+ "q6::P0406": [
+  "family_household",
+  "cooking_effort"
+ ],
+ "q6::P0409": [
+  "cravings_taste"
+ ],
+ "q6::P0412": [],
+ "q6::P0414": [],
+ "q6::P0415": [],
+ "q6::P0416": [
+  "availability_subs",
+  "protein_nutrition",
+  "cravings_taste"
+ ],
+ "q6::P0419": [
+  "family_household"
+ ],
+ "q6::P0420": [
+  "protein_nutrition"
+ ],
+ "q6::P0424": [
+  "protein_nutrition"
+ ],
+ "q6::P0425": [
+  "habit_forgetting"
+ ],
+ "q6::P0426": [
+  "habit_forgetting"
+ ],
+ "q6::P0427": [
+  "cravings_taste"
+ ],
+ "q6::P0430": [
+  "social_eating_out",
+  "family_household"
+ ],
+ "q6::P0432": [
+  "cravings_taste"
+ ],
+ "q6::P0436": [
+  "social_eating_out"
+ ],
+ "q6::P0438": [
+  "social_eating_out"
+ ],
+ "q6::P0439": [
+  "protein_nutrition"
+ ],
+ "q6::P0441": [
+  "cooking_effort"
+ ],
+ "q6::P0442": [
+  "family_household"
+ ],
+ "q6::P0443": [
+  "protein_nutrition"
+ ],
+ "q6::P0445": [
+  "protein_nutrition"
+ ],
+ "q6::P0446": [
+  "social_eating_out"
+ ],
+ "q6::P0447": [
+  "family_household"
+ ],
+ "q6::P0449": [
+  "cravings_taste"
+ ],
+ "q6::P0451": [
+  "family_household"
+ ],
+ "q6::P0453": [
+  "habit_forgetting"
+ ],
+ "q6::P0454": [
+  "cooking_effort"
+ ],
+ "q6::P0455": [
+  "protein_nutrition"
+ ],
+ "q6::P0456": [
+  "cravings_taste"
+ ],
+ "q6::P0457": [
+  "protein_nutrition",
+  "availability_subs"
+ ],
+ "q6::P0460": [
+  "family_household",
+  "cooking_effort",
+  "protein_nutrition"
+ ],
+ "q6::P0463": [
+  "cooking_effort"
+ ],
+ "q6::P0464": [
+  "family_household"
+ ],
+ "q6::P0468": [
+  "family_household",
+  "cravings_taste"
+ ],
+ "q6::P0470": [
+  "travel",
+  "social_eating_out",
+  "availability_subs",
+  "cravings_taste",
+  "family_household",
+  "cooking_effort"
+ ],
+ "q6::P0471": [
+  "travel",
+  "social_eating_out",
+  "availability_subs",
+  "cravings_taste"
+ ],
+ "q6::P0473": [
+  "habit_forgetting",
+  "cooking_effort",
+  "protein_nutrition"
+ ],
+ "q6::P0475": [
+  "cravings_taste"
+ ],
+ "q6::P0476": [
+  "social_eating_out",
+  "availability_subs"
+ ],
+ "q6::P0477": [
+  "cravings_taste",
+  "cooking_effort",
+  "availability_subs"
+ ],
+ "q6::P0480": [
+  "protein_nutrition",
+  "cravings_taste"
+ ],
+ "q6::P0483": [
+  "cravings_taste"
+ ],
+ "q6::P0484": [
+  "protein_nutrition",
+  "availability_subs"
+ ],
+ "q6::P0485": [
+  "cravings_taste"
+ ],
+ "q6::P0487": [],
+ "q6::P0490": [
+  "availability_subs",
+  "social_eating_out"
+ ],
+ "q6::P0491": [
+  "cravings_taste"
+ ],
+ "q6::P0492": [
+  "social_eating_out"
+ ],
+ "q6::P0493": [
+  "family_household"
+ ],
+ "q6::P0494": [
+  "cravings_taste",
+  "family_household"
+ ],
+ "q6::P0495": [
+  "cooking_effort"
+ ],
+ "q6::P0497": [
+  "hidden_ingredients"
+ ],
+ "q6::P0498": [
+  "availability_subs"
+ ],
+ "q6::P0499": [
+  "social_eating_out"
+ ],
+ "q6::P0501": [],
+ "q6::P0502": [
+  "availability_subs"
+ ],
+ "q6::P0504": [
+  "social_eating_out"
+ ],
+ "q6::P0505": [
+  "cravings_taste"
+ ],
+ "q6::P0506": [
+  "cravings_taste"
+ ],
+ "q6::P0509": [
+  "family_household",
+  "cooking_effort"
+ ],
+ "q6::P0513": [
+  "cravings_taste"
+ ],
+ "q6::P0514": [
+  "cost"
+ ],
+ "q6::P0515": [
+  "protein_nutrition",
+  "availability_subs"
+ ],
+ "q6::P0518": [
+  "family_household"
+ ],
+ "q6::P0520": [
+  "protein_nutrition"
+ ],
+ "q6::P0522": [
+  "availability_subs",
+  "cost"
+ ],
+ "q6::P0523": [
+  "cravings_taste"
+ ],
+ "q6::P0528": [
+  "social_eating_out",
+  "availability_subs"
+ ],
+ "q6::P0530": [
+  "family_household"
+ ],
+ "q6::P0533": [
+  "family_household"
+ ],
+ "q6::P0534": [
+  "habit_forgetting",
+  "cravings_taste"
+ ],
+ "q6::P0535": [
+  "travel",
+  "availability_subs"
+ ],
+ "q6::P0536": [
+  "family_household",
+  "cravings_taste",
+  "availability_subs"
+ ],
+ "q6::P0539": [],
+ "q6::P0540": [
+  "cravings_taste"
+ ],
+ "q8::P0003": [
+  "availability_subs",
+  "cravings_taste",
+  "protein_nutrition"
+ ],
+ "q8::P0007": [
+  "cravings_taste",
+  "availability_subs"
+ ],
+ "q8::P0010": [
+  "cravings_taste"
+ ],
+ "q8::P0013": [
+  "availability_subs",
+  "habit_forgetting"
+ ],
+ "q8::P0017": [
+  "protein_nutrition"
+ ],
+ "q8::P0019": [
+  "protein_nutrition"
+ ],
+ "q8::P0021": [
+  "social_eating_out"
+ ],
+ "q8::P0022": [
+  "protein_nutrition",
+  "cooking_effort"
+ ],
+ "q8::P0023": [
+  "family_household"
+ ],
+ "q8::P0024": [
+  "social_eating_out",
+  "cravings_taste",
+  "protein_nutrition",
+  "cooking_effort"
+ ],
+ "q8::P0026": [
+  "travel",
+  "availability_subs"
+ ],
+ "q8::P0027": [
+  "cooking_effort",
+  "cravings_taste",
+  "availability_subs",
+  "social_eating_out"
+ ],
+ "q8::P0035": [
+  "social_eating_out",
+  "travel"
+ ],
+ "q8::P0037": [
+  "protein_nutrition"
+ ],
+ "q8::P0039": [
+  "protein_nutrition"
+ ],
+ "q8::P0040": [
+  "social_eating_out",
+  "waste_preexisting",
+  "hidden_ingredients",
+  "protein_nutrition"
+ ],
+ "q8::P0041": [
+  "protein_nutrition",
+  "cost",
+  "availability_subs",
+  "cravings_taste"
+ ],
+ "q8::P0042": [
+  "availability_subs"
+ ],
+ "q8::P0048": [
+  "cravings_taste"
+ ],
+ "q8::P0049": [
+  "cravings_taste"
+ ],
+ "q8::P0051": [
+  "family_household",
+  "cooking_effort"
+ ],
+ "q8::P0052": [],
+ "q8::P0062": [
+  "cravings_taste",
+  "protein_nutrition"
+ ],
+ "q8::P0067": [
+  "social_eating_out",
+  "hidden_ingredients",
+  "availability_subs"
+ ],
+ "q8::P0069": [
+  "social_eating_out",
+  "cravings_taste"
+ ],
+ "q8::P0070": [
+  "cravings_taste",
+  "protein_nutrition"
+ ],
+ "q8::P0072": [
+  "travel",
+  "availability_subs"
+ ],
+ "q8::P0073": [
+  "travel",
+  "social_eating_out",
+  "availability_subs"
+ ],
+ "q8::P0077": [
+  "waste_preexisting",
+  "travel",
+  "availability_subs"
+ ],
+ "q8::P0078": [
+  "travel",
+  "social_eating_out",
+  "availability_subs",
+  "protein_nutrition"
+ ],
+ "q8::P0079": [
+  "social_eating_out",
+  "cravings_taste"
+ ],
+ "q8::P0089": [
+  "cravings_taste"
+ ],
+ "q8::P0092": [
+  "family_household",
+  "protein_nutrition"
+ ],
+ "q8::P0094": [],
+ "q8::P0095": [
+  "social_eating_out",
+  "family_household",
+  "waste_preexisting"
+ ],
+ "q8::P0096": [
+  "protein_nutrition"
+ ],
+ "q8::P0105": [
+  "protein_nutrition",
+  "cravings_taste"
+ ],
+ "q8::P0107": [
+  "cooking_effort"
+ ],
+ "q8::P0108": [
+  "protein_nutrition",
+  "cravings_taste",
+  "social_eating_out",
+  "travel",
+  "availability_subs"
+ ],
+ "q8::P0114": [
+  "social_eating_out",
+  "cravings_taste"
+ ],
+ "q8::P0116": [
+  "travel",
+  "availability_subs"
+ ],
+ "q8::P0120": [
+  "social_eating_out",
+  "availability_subs",
+  "family_household"
+ ],
+ "q8::P0124": [
+  "hidden_ingredients",
+  "social_eating_out",
+  "cravings_taste"
+ ],
+ "q8::P0126": [],
+ "q8::P0133": [
+  "family_household"
+ ],
+ "q8::P0136": [
+  "social_eating_out",
+  "cooking_effort"
+ ],
+ "q8::P0138": [
+  "habit_forgetting"
+ ],
+ "q8::P0139": [
+  "social_eating_out",
+  "availability_subs",
+  "cooking_effort",
+  "cravings_taste",
+  "protein_nutrition"
+ ],
+ "q8::P0140": [
+  "cooking_effort",
+  "habit_forgetting"
+ ],
+ "q8::P0141": [
+  "availability_subs",
+  "cost",
+  "protein_nutrition"
+ ],
+ "q8::P0144": [
+  "family_household"
+ ],
+ "q8::P0146": [
+  "availability_subs"
+ ],
+ "q8::P0148": [
+  "social_eating_out"
+ ],
+ "q8::P0154": [
+  "protein_nutrition"
+ ],
+ "q8::P0155": [
+  "cravings_taste",
+  "availability_subs",
+  "social_eating_out"
+ ],
+ "q8::P0156": [
+  "travel",
+  "social_eating_out",
+  "availability_subs",
+  "protein_nutrition",
+  "cravings_taste"
+ ],
+ "q8::P0157": [
+  "cravings_taste",
+  "protein_nutrition",
+  "availability_subs"
+ ],
+ "q8::P0158": [
+  "cravings_taste"
+ ],
+ "q8::P0159": [
+  "cravings_taste",
+  "social_eating_out",
+  "protein_nutrition"
+ ],
+ "q8::P0163": [
+  "family_household",
+  "social_eating_out",
+  "availability_subs",
+  "cravings_taste"
+ ],
+ "q8::P0164": [
+  "protein_nutrition",
+  "cravings_taste"
+ ],
+ "q8::P0165": [
+  "cravings_taste",
+  "cooking_effort",
+  "family_household"
+ ],
+ "q8::P0166": [
+  "social_eating_out",
+  "cravings_taste"
+ ],
+ "q8::P0167": [
+  "protein_nutrition",
+  "cravings_taste",
+  "social_eating_out"
+ ],
+ "q8::P0170": [
+  "social_eating_out"
+ ],
+ "q8::P0174": [
+  "social_eating_out"
+ ],
+ "q8::P0178": [
+  "family_household",
+  "availability_subs",
+  "protein_nutrition"
+ ],
+ "q8::P0188": [
+  "availability_subs",
+  "travel"
+ ],
+ "q8::P0193": [
+  "cooking_effort"
+ ],
+ "q8::P0196": [
+  "social_eating_out",
+  "hidden_ingredients",
+  "cravings_taste"
+ ],
+ "q8::P0203": [
+  "cravings_taste",
+  "availability_subs"
+ ],
+ "q8::P0215": [
+  "travel",
+  "social_eating_out"
+ ],
+ "q8::P0221": [
+  "habit_forgetting",
+  "cooking_effort"
+ ],
+ "q8::P0225": [
+  "cravings_taste"
+ ],
+ "q8::P0232": [
+  "availability_subs",
+  "social_eating_out",
+  "protein_nutrition"
+ ],
+ "q8::P0233": [],
+ "q8::P0236": [
+  "social_eating_out"
+ ],
+ "q8::P0237": [
+  "family_household"
+ ],
+ "q8::P0239": [
+  "travel",
+  "family_household"
+ ],
+ "q8::P0246": [
+  "habit_forgetting"
+ ],
+ "q8::P0247": [
+  "cravings_taste"
+ ],
+ "q8::P0248": [
+  "habit_forgetting"
+ ],
+ "q8::P0249": [
+  "social_eating_out",
+  "cravings_taste"
+ ],
+ "q8::P0256": [
+  "cravings_taste"
+ ],
+ "q8::P0258": [
+  "protein_nutrition",
+  "social_eating_out"
+ ],
+ "q8::P0259": [
+  "cooking_effort",
+  "family_household"
+ ],
+ "q8::P0265": [
+  "availability_subs"
+ ],
+ "q8::P0267": [
+  "social_eating_out",
+  "availability_subs"
+ ],
+ "q8::P0269": [
+  "cravings_taste"
+ ],
+ "q8::P0273": [
+  "social_eating_out",
+  "family_household"
+ ],
+ "q8::P0277": [
+  "habit_forgetting",
+  "cooking_effort"
+ ],
+ "q8::P0278": [
+  "social_eating_out",
+  "family_household",
+  "protein_nutrition",
+  "hidden_ingredients",
+  "cravings_taste"
+ ],
+ "q8::P0287": [
+  "social_eating_out",
+  "protein_nutrition"
+ ],
+ "q8::P0289": [
+  "protein_nutrition",
+  "cravings_taste"
+ ],
+ "q8::P0291": [
+  "habit_forgetting"
+ ],
+ "q8::P0294": [
+  "family_household",
+  "cravings_taste",
+  "availability_subs"
+ ],
+ "q8::P0296": [
+  "family_household"
+ ],
+ "q8::P0301": [
+  "availability_subs",
+  "social_eating_out",
+  "habit_forgetting",
+  "cravings_taste"
+ ],
+ "q8::P0303": [
+  "cravings_taste",
+  "protein_nutrition"
+ ],
+ "q8::P0305": [
+  "availability_subs",
+  "waste_preexisting"
+ ],
+ "q8::P0309": [
+  "social_eating_out",
+  "travel",
+  "protein_nutrition",
+  "cravings_taste"
+ ],
+ "q8::P0313": [
+  "family_household"
+ ],
+ "q8::P0314": [],
+ "q8::P0317": [
+  "social_eating_out",
+  "protein_nutrition",
+  "cravings_taste"
+ ],
+ "q8::P0320": [
+  "cravings_taste",
+  "availability_subs"
+ ],
+ "q8::P0326": [],
+ "q8::P0328": [
+  "cooking_effort",
+  "availability_subs",
+  "cravings_taste",
+  "social_eating_out"
+ ],
+ "q8::P0334": [
+  "habit_forgetting",
+  "family_household",
+  "cravings_taste"
+ ],
+ "q8::P0335": [
+  "hidden_ingredients",
+  "cooking_effort",
+  "availability_subs"
+ ],
+ "q8::P0337": [],
+ "q8::P0338": [
+  "protein_nutrition",
+  "cravings_taste"
+ ],
+ "q8::P0341": [
+  "cravings_taste"
+ ],
+ "q8::P0347": [
+  "cravings_taste"
+ ],
+ "q8::P0348": [],
+ "q8::P0361": [
+  "cravings_taste",
+  "availability_subs",
+  "protein_nutrition"
+ ],
+ "q8::P0363": [
+  "hidden_ingredients",
+  "cravings_taste"
+ ],
+ "q8::P0364": [
+  "cravings_taste",
+  "protein_nutrition",
+  "waste_preexisting",
+  "availability_subs"
+ ],
+ "q8::P0365": [
+  "cravings_taste"
+ ],
+ "q8::P0368": [
+  "cravings_taste",
+  "cooking_effort"
+ ],
+ "q8::P0370": [],
+ "q8::P0371": [
+  "cravings_taste"
+ ],
+ "q8::P0373": [
+  "protein_nutrition",
+  "cooking_effort"
+ ],
+ "q8::P0374": [
+  "travel",
+  "availability_subs",
+  "protein_nutrition"
+ ],
+ "q8::P0375": [
+  "cravings_taste",
+  "availability_subs",
+  "cooking_effort"
+ ],
+ "q8::P0379": [
+  "social_eating_out",
+  "availability_subs",
+  "hidden_ingredients",
+  "cravings_taste"
+ ],
+ "q8::P0382": [
+  "travel",
+  "social_eating_out",
+  "availability_subs"
+ ],
+ "q8::P0383": [
+  "protein_nutrition"
+ ],
+ "q8::P0384": [
+  "cravings_taste"
+ ],
+ "q8::P0388": [
+  "protein_nutrition"
+ ],
+ "q8::P0389": [
+  "family_household"
+ ],
+ "q8::P0391": [
+  "cravings_taste",
+  "travel"
+ ],
+ "q8::P0393": [
+  "protein_nutrition",
+  "social_eating_out"
+ ],
+ "q8::P0394": [
+  "travel",
+  "family_household"
+ ],
+ "q8::P0396": [
+  "cravings_taste",
+  "protein_nutrition"
+ ],
+ "q8::P0404": [
+  "cravings_taste",
+  "protein_nutrition",
+  "travel"
+ ],
+ "q8::P0405": [],
+ "q8::P0409": [
+  "cravings_taste"
+ ],
+ "q8::P0412": [
+  "availability_subs"
+ ],
+ "q8::P0414": [
+  "travel",
+  "availability_subs",
+  "cravings_taste"
+ ],
+ "q8::P0416": [
+  "protein_nutrition"
+ ],
+ "q8::P0419": [
+  "social_eating_out",
+  "availability_subs",
+  "cravings_taste"
+ ],
+ "q8::P0420": [
+  "cravings_taste"
+ ],
+ "q8::P0424": [
+  "cost",
+  "protein_nutrition",
+  "cravings_taste"
+ ],
+ "q8::P0426": [
+  "protein_nutrition",
+  "availability_subs"
+ ],
+ "q8::P0432": [],
+ "q8::P0436": [
+  "social_eating_out",
+  "travel",
+  "availability_subs",
+  "cravings_taste",
+  "hidden_ingredients"
+ ],
+ "q8::P0441": [
+  "social_eating_out",
+  "availability_subs",
+  "protein_nutrition"
+ ],
+ "q8::P0442": [
+  "availability_subs",
+  "social_eating_out"
+ ],
+ "q8::P0443": [
+  "hidden_ingredients",
+  "protein_nutrition"
+ ],
+ "q8::P0445": [
+  "family_household",
+  "waste_preexisting",
+  "social_eating_out",
+  "cravings_taste"
+ ],
+ "q8::P0446": [
+  "family_household"
+ ],
+ "q8::P0447": [
+  "cravings_taste"
+ ],
+ "q8::P0449": [
+  "habit_forgetting"
+ ],
+ "q8::P0453": [
+  "cravings_taste"
+ ],
+ "q8::P0454": [
+  "availability_subs",
+  "social_eating_out"
+ ],
+ "q8::P0456": [
+  "cravings_taste"
+ ],
+ "q8::P0457": [
+  "family_household",
+  "protein_nutrition",
+  "cooking_effort"
+ ],
+ "q8::P0460": [
+  "social_eating_out",
+  "family_household",
+  "availability_subs",
+  "hidden_ingredients"
+ ],
+ "q8::P0463": [
+  "social_eating_out",
+  "family_household",
+  "hidden_ingredients",
+  "waste_preexisting"
+ ],
+ "q8::P0464": [
+  "protein_nutrition",
+  "cravings_taste",
+  "family_household"
+ ],
+ "q8::P0468": [
+  "family_household"
+ ],
+ "q8::P0470": [
+  "travel",
+  "availability_subs",
+  "protein_nutrition"
+ ],
+ "q8::P0471": [
+  "cravings_taste",
+  "social_eating_out",
+  "availability_subs",
+  "hidden_ingredients"
+ ],
+ "q8::P0472": [
+  "protein_nutrition"
+ ],
+ "q8::P0473": [
+  "social_eating_out",
+  "availability_subs"
+ ],
+ "q8::P0475": [
+  "protein_nutrition"
+ ],
+ "q8::P0476": [
+  "cravings_taste",
+  "availability_subs",
+  "social_eating_out"
+ ],
+ "q8::P0477": [
+  "hidden_ingredients",
+  "waste_preexisting",
+  "cost"
+ ],
+ "q8::P0480": [],
+ "q8::P0483": [
+  "waste_preexisting",
+  "hidden_ingredients"
+ ],
+ "q8::P0487": [
+  "cravings_taste"
+ ],
+ "q8::P0490": [
+  "social_eating_out",
+  "availability_subs",
+  "protein_nutrition"
+ ],
+ "q8::P0491": [],
+ "q8::P0493": [
+  "availability_subs"
+ ],
+ "q8::P0494": [
+  "family_household",
+  "cravings_taste"
+ ],
+ "q8::P0495": [
+  "availability_subs",
+  "social_eating_out"
+ ],
+ "q8::P0496": [
+  "cravings_taste",
+  "protein_nutrition"
+ ],
+ "q8::P0497": [
+  "protein_nutrition"
+ ],
+ "q8::P0498": [
+  "protein_nutrition"
+ ],
+ "q8::P0501": [
+  "cravings_taste",
+  "hidden_ingredients"
+ ],
+ "q8::P0504": [
+  "cravings_taste",
+  "cooking_effort"
+ ],
+ "q8::P0505": [
+  "cravings_taste",
+  "social_eating_out",
+  "availability_subs",
+  "cost"
+ ],
+ "q8::P0509": [
+  "cravings_taste",
+  "social_eating_out"
+ ],
+ "q8::P0513": [
+  "social_eating_out",
+  "cravings_taste"
+ ],
+ "q8::P0514": [
+  "availability_subs",
+  "social_eating_out"
+ ],
+ "q8::P0518": [
+  "cravings_taste"
+ ],
+ "q8::P0520": [
+  "availability_subs",
+  "protein_nutrition"
+ ],
+ "q8::P0522": [
+  "travel",
+  "cooking_effort"
+ ],
+ "q8::P0523": [
+  "cravings_taste",
+  "availability_subs"
+ ],
+ "q8::P0526": [
+  "cravings_taste"
+ ],
+ "q8::P0530": [
+  "family_household"
+ ],
+ "q8::P0533": [
+  "protein_nutrition",
+  "cooking_effort"
+ ],
+ "q8::P0534": [
+  "social_eating_out",
+  "family_household"
+ ],
+ "q8::P0536": [
+  "habit_forgetting",
+  "cravings_taste"
+ ],
+ "q8::P0539": [
+  "social_eating_out",
+  "cooking_effort"
+ ]
+}

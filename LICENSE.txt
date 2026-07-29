@@ -1,0 +1,15 @@
+All files in this repository are licensed under the Creative Commons Attribution 4.0 International License
+(CC BY 4.0).
+
+Copyright (c) 2026 Alliance Foundation
+
+You are free to share and adapt the material for any purpose, including
+commercially, provided you give appropriate credit, link to the license, and
+indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+ADDITIONAL CONDITION (not a licence restriction, but a condition of the ethics
+approval under which these data were collected): users must not attempt to
+re-identify participants, nor link these records to any other dataset for the
+purpose of re-identification. See DEIDENTIFICATION.md.
