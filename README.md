@@ -32,10 +32,6 @@ seafood, 8.5 g per serving of dairy, 6.3 g per egg.
 `d1_age` is binned and `d3_country` is reduced to United States / Other. All free text has
 been removed. [DEIDENTIFICATION.md](DEIDENTIFICATION.md) lists what changed.
 
-## Citation
-
-<!-- TODO: paper title, authors, year, DOI / preprint URL -->
-
 ## Contact
 
 Study team: contact@worldalliance.org
